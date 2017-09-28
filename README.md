@@ -4,7 +4,7 @@ Discussions server on Discord.
 
 ## Python
 ### Learning
-* [''Automate the Boring Stuff''](ihttp://automatetheboringstuff.com) by Al
+* [''Automate the Boring Stuff''](http://automatetheboringstuff.com) by Al
   Sweigart &mdash; An introduction to the language focused on showing how Python
   can help you with tasks around the office today.
 ### Culture
