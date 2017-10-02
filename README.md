@@ -1,13 +1,22 @@
 # Programming Discussions Recommendations
-Here you'll find a list of learning resources recommended by the Programming
-Discussions server on Discord.
+A curated list of learning resources recommended by the Programming Discussions server on Discord.
 
-## Python
-### Learning
+- [Languages](#languages)
+  - [C++](#c)
+  - [Python](#python)
+
+## Languages
+### C++
+* [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages. 
+* [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level. 
+* [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming. 
+
+### Python
+#### Learning
 * [*Automate the Boring Stuff*](http://automatetheboringstuff.com) by Al
   Sweigart &mdash; An introduction to the language focused on showing how Python
   can help you with tasks around the office today.
-### Culture
+#### Culture
 * [*Talk Python to Me*](https://talkpython.fm) by Michael Kenned &mdash;
   A weekly discussion about a Python project you should know about, usually with
   their developers.
