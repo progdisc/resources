@@ -3,13 +3,23 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 - [Languages](#languages)
   - [C++](#c)
+  - [Javascript](#javascript)
   - [Python](#python)
 
 ## Languages
 ### C++
-* [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages. 
-* [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level. 
-* [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming. 
+* [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
+* [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
+* [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
+
+### Javascript
+* [Eloquent JavaScript](http://eloquentjavascript.net/) &mdash; Free to Read Online: A Modern Introduction to Programming
+* [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &mdash; A community wiki with a JavaScript reference section, including compatability charts.
+* [JS The Right Way](http://jstherightway.org/) &mdash; An overview of JS with a list of additional resources.
+* [javascript.info](javascript.info) &mdash; A tutorial on the new features in Javascript.
+* [JS in 2017](https://medium.freecodecamp.org/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd) &mdash; "there's a collection of stuff".
+#### Videos
+* [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) &mdash; Talk: Overview on the Javascript event loop. (26:52)
 
 ### Python
 #### Learning
