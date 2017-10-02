@@ -5,7 +5,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   - [C++](#c)
   - [Java](#java)
   - [Javascript](#javascript)
-  - [PHP](#PHP)
+  - [PHP](#php)
   - [Python](#python)
 - [Podcasts](#podcasts)
 
@@ -36,7 +36,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 #### Videos
 * [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) &mdash; Talk: Overview on the Javascript event loop. (26:52)
 
-### PHP
+### php
 #### Learning
 * [*A simple tutorial*](https://secure.php.net/manual/en/tutorial.php) &mdash; A good introduction.
 * [*Official PHP Documentation*](http://php.net/docs.php) &mdash; Select a language on the page.
