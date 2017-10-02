@@ -3,6 +3,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 - [Languages](#languages)
   - [C++](#c)
+  - [Java](#java)
   - [Javascript](#javascript)
   - [Python](#python)
 - [Podcasts](#podcasts)
@@ -15,6 +16,15 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
 * [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
+
+### Java
+* [Java Platform Documentation](https://docs.oracle.com/javase/8/docs/api/) &mdash; Official Java SE 8 Documentation.
+* [Oracle Tutorial](https://docs.oracle.com/javase/tutorial/) &mdash; Official Java Tutorial by Oracle.
+#### Materials
+* [Software Construction](https://ocw.mit.edu/ans7870/6/6.005/s16/) &mdash; MIT 6.005: Software Construction (Warning: Needs some programming experience).
+* [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) &mdash; For those looking for a deeper understanding of Java, to create clearer, more correct, more robust, and more reusable code.
+#### Learning
+* [Object Oriented Programming](http://mooc.fi/courses/2013/programming-part-1/) &mdash; Object-Oriented programming with Java, part I & II (University of Helsinki).
 
 ### Javascript
 * [Eloquent JavaScript](http://eloquentjavascript.net/) &mdash; Free to Read Online: A Modern Introduction to Programming
