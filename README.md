@@ -5,6 +5,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   - [C++](#c)
   - [Java](#java)
   - [Javascript](#javascript)
+  - [PHP](#PHP)
   - [Python](#python)
 - [Podcasts](#podcasts)
 
@@ -34,6 +35,13 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [JS in 2017](https://medium.freecodecamp.org/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd) &mdash; "there's a collection of stuff".
 #### Videos
 * [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) &mdash; Talk: Overview on the Javascript event loop. (26:52)
+
+### PHP
+#### Learning
+* [*A simple tutorial*](https://secure.php.net/manual/en/tutorial.php) &mdash; A good introduction.
+* [*Official PHP Documentation*](http://php.net/docs.php) &mdash; Select a language on the page.
+* [*Learn PHP the right way*](http://www.phptherightway.com/) &mdash; Free online free book/reference manual.
+* [*PHP 7*](http://www.tutorialspoint.com/php7/) &mdash; Interactive tutorial http://www.tutorialspoint.com/
 
 ### Python
 #### Learning
