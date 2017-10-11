@@ -62,11 +62,9 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 ## Language Agnostic
 
-### [Programming Throwdown](http://www.programmingthrowdown.com/)
-Programming Throwdown attempts to educate Computer Scientists and Software Engineers on a cavalcade of programming and tech topics. Every show will cover a new programming language, so listeners will be able to speak intelligently about any programming language.
-
-### [Coding Blocks](https://www.codingblocks.net/)
-Pragmatic talk about software design best practices: design patterns, software architecture, coding for performance, object oriented programming, database design and implementation, tips, tricks and a whole lot more. You'll be exposed to broad areas of information as well as deep dives into the guts of a programming language. Most topics discussed are relevant in any number of Object Oriented programming languages such as C#, Java, Ruby, PHP, etc.. All three of us are full stack web and database / software engineers so we discuss Javascript, HTML, SQL and a full spectrum of technologies and are open to any suggestions anyone might have for a topic. So please join us, subscribe, and invite your computer programming friends to come along for the ride.
+### Podcasts
+* [Programming Throwdown](http://www.programmingthrowdown.com/) &mdash; Every show covers a new programming language and assorted tech topics.
+* [Coding Blocks](https://www.codingblocks.net/) &mdash; Pragmatic talk about software design best practices: design patterns, software architecture, performance, object oriented programming, and database design.
 
 # License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
