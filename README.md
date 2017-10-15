@@ -126,6 +126,20 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 * [Godoc](https://godoc.org/)
 
+### Rust
+
+#### Learning
+
+* [The Rust Book](https://doc.rust-lang.org/nightly/book/second-edition/) &mdash; It contains pretty much everything you need to know about Rust.
+* [Rust By Example](http://rustbyexample.com/) &mdash; A nice tutorial for people who already know how to program.
+* [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) &mdash; Everything you need to know about macros.
+* [Rust Documentation](https://doc.rust-lang.org/) &mdash; List of useful Rust documentations, such as: The Rust Language Reference & The standard library API.
+* [The Rustonomicon](https://doc.rust-lang.org/nomicon/README.html#the-rustonomicon) &mdash; The Dark Arts of Advanced and Unsafe Rust Programming. 
+* [Rustdoc Guide](https://doc.rust-lang.org/rustdoc/) &mdash; A short guide on rustdoc and how to use it.
+* [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
+* [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
+* [Discovery](https://japaric.github.io/discovery/) &mdash; An "introductory course" on microcontroller-based "embedded systems" using Rust.
+
 ### Ruby
 
 #### Learning
