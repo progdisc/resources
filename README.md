@@ -181,7 +181,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Paid Book - Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
 * [Paid Book - Elements of Programming Interviews !WARNING COMES IN SEVERAL LANGUAGES!](https://bit.ly/epipython)
 
-### ML
+### Machine Learning
 
 * [Free Course - Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
 * [Free Book - Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
