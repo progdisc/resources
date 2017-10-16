@@ -87,30 +87,30 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 #### Materials
 
-* [*PSR*](http://www.php-fig.org/psr/) &mdash; a collection of community-made standards and best practices for PHP
+* [PSR](http://www.php-fig.org/psr/) &mdash; a collection of community-made standards and best practices for PHP
 
 #### Learning
 
-* [*A simple tutorial*](https://secure.php.net/manual/en/tutorial.php) &mdash; A good introduction.
-* [*Official PHP Documentation*](http://php.net/docs.php) &mdash; Select a language on the page.
-* [*Learn PHP the right way*](http://www.phptherightway.com/) &mdash; Free online free book/reference manual.
-* [*PHP 7*](http://www.tutorialspoint.com/php7/) &mdash; Interactive tutorial http://www.tutorialspoint.com/
+* [A simple tutorial](https://secure.php.net/manual/en/tutorial.php) &mdash; A good introduction.
+* [Official PHP Documentation](http://php.net/docs.php) &mdash; Select a language on the page.
+* [Learn PHP the right way](http://www.phptherightway.com/) &mdash; Free online free book/reference manual.
+* [PHP 7](http://www.tutorialspoint.com/php7/) &mdash; Interactive tutorial http://www.tutorialspoint.com/
 
 ### Python
 
 #### Learning
 
-* [*Automate the Boring Stuff*](http://automatetheboringstuff.com) by Al
+* [Automate the Boring Stuff](http://automatetheboringstuff.com) by Al
   Sweigart &mdash; An introduction to the language focused on showing how Python
   can help you with tasks around the office today.
-* [*Hitchhiker's Guide to Python*](docs.python-guide.org/en/latest/) &mdash; A great guide to learning Python practices, setting up dev environments, packaging, and a lot of other information you're unlikely to learn from a guide or even unlikely to learn without hard experience
-* [*Google Course*](https://developers.google.com/edu/python/) &mdash; Self explanatory. Course by Google. Who better to learn from? Do keep in mind, Google tends to use a different style guide to standard Python.
-* [*MIT 6.00X MOOC*](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) &mdash; Introduction to CS and programming with Python, MOOC by MIT
-* [*Corey Schafer on Youtube*](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
+* [Hitchhiker's Guide to Python](docs.python-guide.org/en/latest/) &mdash; A great guide to learning Python practices, setting up dev environments, packaging, and a lot of other information you're unlikely to learn from a guide or even unlikely to learn without hard experience
+* [Google Course](https://developers.google.com/edu/python/) &mdash; Self explanatory. Course by Google. Who better to learn from? Do keep in mind, Google tends to use a different style guide to standard Python.
+* [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) &mdash; Introduction to CS and programming with Python, MOOC by MIT
+* [Corey Schafer on Youtube](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
 
 #### Culture
 
-* [*Talk Python to Me*](https://talkpython.fm) by Michael Kennedy &mdash;
+* [Talk Python to Me](https://talkpython.fm) by Michael Kennedy &mdash;
   A weekly discussion about a Python project you should know about, usually with
   their developers.
 
