@@ -37,7 +37,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Book: C# in Depth, Third Edition by Jon Skeet (http://meta.stackexchange.com/q/9134)](https://www.manning.com/books/c-sharp-in-depth-third-edition)
 * [Paid Course Library: Fundamentals, ASP.NET MVC, LINQ, Entity Framework and more](https://teamtreehouse.com/library/topic:csharp)
 
-### Cpp/C++
+### C++
 
 * [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
