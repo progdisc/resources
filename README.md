@@ -3,8 +3,9 @@
 A curated list of learning resources recommended by the Programming Discussions server on Discord.
 
 - [Languages](#languages)
+  - [C](#c)
   - [C#](#c-pronounced-c-sharp)
-  - [C++](#c)
+  - [C++](#c++)
   - [Java](#java)
   - [Javascript](#javascript)
   - [PHP](#php)
@@ -12,12 +13,21 @@ A curated list of learning resources recommended by the Programming Discussions 
   - [Go](#go)
   - [Ruby](#ruby)
   - [Rust](#rust)
-- [Language Agnostic](#language-agnostic)
+  - [Language Agnostic](#language-agnostic)
   - [DSA](#dsa)
   - [Interviews](#interviews)
-  - [ML](#ml)
+  - [Machine Learning](#ML)
 
 ## Languages
+
+### C
+* [Programming in C](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410) &mdash; 4th edition of introductory book for programming in C
+* [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.  
+* [Tutorials point](https://www.tutorialspoint.com/cprogramming/) &mdash; Reference for C and its features. May not be a bit overwhelming for a *complete* beginner to programming but good for its use.
+* [Introduction to C Programming](http://www.tti.unipa.it/~ricrizzo/KS/Data/RMiles/contents.html) &mdash; Self-explanatory. Also available [here](http://student.itee.uq.edu.au/courses/csse2310/CProgrammingNotes.pdf) as a PDF.
+* [Stanford Education Library](http://cslibrary.stanford.edu/)'s CS resources on C, UNIX, and other things implemented in C
+* [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Because pointers are a pain
+* [C Debugging cheatsheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out
 
 ### C# (pronounced c-sharp)
 
@@ -27,7 +37,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Book: C# in Depth, Third Edition by Jon Skeet (http://meta.stackexchange.com/q/9134)](https://www.manning.com/books/c-sharp-in-depth-third-edition)
 * [Paid Course Library: Fundamentals, ASP.NET MVC, LINQ, Entity Framework and more](https://teamtreehouse.com/library/topic:csharp)
 
-### C++
+### Cpp/C++
 
 * [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
@@ -171,7 +181,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Paid Book - Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
 * [Paid Book - Elements of Programming Interviews !WARNING COMES IN SEVERAL LANGUAGES!](https://bit.ly/epipython)
 
-### Machine Learning
+### ML
 
 * [Free Course - Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
 * [Free Book - Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
