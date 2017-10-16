@@ -16,7 +16,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   - [Language Agnostic](#language-agnostic)
   - [DSA](#dsa)
   - [Interviews](#interviews)
-  - [Machine Learning](#ML)
+  - [Machine Learning](#machine-learning)
 
 ## Languages
 
