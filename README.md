@@ -78,6 +78,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [A Free Visual Guide to CSS:](http://cssreference.io/)
 * [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
 * [Tutorial: Simple introduction to CSS](http://learnlayout.com/)
+* [CSS Grid Garden - A game for learning CSS grid layout](http://cssgridgarden.com/)
 
 #### Materials
 
