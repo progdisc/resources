@@ -5,6 +5,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 - [Languages](#languages)
   - [C#](#c-pronounced-c-sharp)
   - [C++](#c)
+  - [CSS](#css)
   - [Java](#java)
   - [Javascript](#javascript)
   - [PHP](#php)
