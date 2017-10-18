@@ -4,8 +4,8 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 - [Languages](#languages)
   - [C](#c)
-  - [C#](#c-pronounced-c-sharp)
-  - [C++](#c-1)
+  - [C#](#c-1)
+  - [C++](#c-2)
   - [CSS](#css)
   - [Java](#java)
   - [Javascript](#javascript)
@@ -15,7 +15,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   - [Ruby](#ruby)
   - [Rust](#rust)
 - [Language Agnostic](#language-agnostic)
-  - [Data Structures & Algorithms](#data-structures-algorithms)
+  - [Data Structures & Algorithms](#data-structures--algorithms)
   - [Interviews](#interviews)
   - [Machine Learning](#machine-learning)
 
