@@ -13,7 +13,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   - [Go](#go)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [Language Agnostic](#language-agnostic)
+- [Language Agnostic](#language-agnostic)
   - [DSA](#dsa)
   - [Interviews](#interviews)
   - [Machine Learning](#machine-learning)
