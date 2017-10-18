@@ -17,6 +17,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 - [Language Agnostic](#language-agnostic)
   - [Data Structures & Algorithms](#data-structures--algorithms)
   - [Interviews](#interviews)
+  - [Networking](#networking)
   - [Machine Learning](#machine-learning)
 
 ## Languages
@@ -206,6 +207,13 @@ Search words: ML
 * [Free Book - Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [YouTube - Sentdex](https://www.youtube.com/sentdex)
 * [YouTube - Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+### Networking
+
+* [Free Course - CCNA/CCENT 200-120](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC)
+* [Paid Courses - Chris Bryant on Udemy](https://www.udemy.com/user/chrisbryant/)
+  * Frequently on sale for ~$10 USD each
+* [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
 
 ### Podcasts
 
