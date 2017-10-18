@@ -6,6 +6,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   - [C](#c)
   - [C#](#c-pronounced-c-sharp)
   - [C++](#c-1)
+  - [CSS](#css)
   - [Java](#java)
   - [Javascript](#javascript)
   - [PHP](#php)
@@ -14,13 +15,14 @@ A curated list of learning resources recommended by the Programming Discussions 
   - [Ruby](#ruby)
   - [Rust](#rust)
 - [Language Agnostic](#language-agnostic)
-  - [DSA](#dsa)
+  - [Data Structures & Algorithms](#data-structures-algorithms)
   - [Interviews](#interviews)
   - [Machine Learning](#machine-learning)
 
 ## Languages
 
 ### C
+
 * [Programming in C](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410) &mdash; 4th edition of introductory book for programming in C
 * [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.  
 * [Tutorials point](https://www.tutorialspoint.com/cprogramming/) &mdash; Reference for C and its features. May not be a bit overwhelming for a *complete* beginner to programming but good for its use.
@@ -29,7 +31,9 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Because pointers are a pain
 * [C Debugging cheatsheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out
 
-### C# (pronounced c-sharp)
+### C#
+
+Search words: c-sharp, csharp
 
 * [Rob Miles' C# Programming Yellow Book](http://www.robmiles.com/c-yellow-book/) is the go-to guide for learning or refreshing C# skills.
 * [Free Course: Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
@@ -38,6 +42,8 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Paid Course Library: Fundamentals, ASP.NET MVC, LINQ, Entity Framework and more](https://teamtreehouse.com/library/topic:csharp)
 
 ### C++
+
+Search words: cpp
 
 * [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
@@ -58,6 +64,8 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Object Oriented Programming](http://mooc.fi/courses/2013/programming-part-1/) &mdash; Object-Oriented programming with Java, part I & II (University of Helsinki).
 
 ### Javascript
+
+Search words: JS, ES5, ES6, ES2017
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/) &mdash; Free to Read Online: A Modern Introduction to Programming
 * [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &mdash; A community wiki with a JavaScript reference section, including compatability charts.
@@ -82,12 +90,15 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 ### CSS
 
+Search words: Cascading Style Sheets
+
 #### Learning
 
 * [Tutorials/Documentation (In-depth)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [A Free Visual Guide to CSS:](http://cssreference.io/)
 * [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
 * [Tutorial: Simple introduction to CSS](http://learnlayout.com/)
+* [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
 
 #### Materials
 
@@ -139,6 +150,8 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 ### Ruby
 
+Search words: Ruby on Rails
+
 #### Learning
 
 * [Official Ruby Core 2.4.1 Documentation](http://ruby-doc.org/core-2.4.1/)
@@ -160,7 +173,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Rust By Example](http://rustbyexample.com/) &mdash; A nice tutorial for people who already know how to program.
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) &mdash; Everything you need to know about macros.
 * [Rust Documentation](https://doc.rust-lang.org/) &mdash; List of useful Rust documentations, such as: The Rust Language Reference & The standard library API.
-* [The Rustonomicon](https://doc.rust-lang.org/nomicon/README.html#the-rustonomicon) &mdash; The Dark Arts of Advanced and Unsafe Rust Programming. 
+* [The Rustonomicon](https://doc.rust-lang.org/nomicon/README.html#the-rustonomicon) &mdash; The Dark Arts of Advanced and Unsafe Rust Programming.
 * [Rustdoc Guide](https://doc.rust-lang.org/rustdoc/) &mdash; A short guide on rustdoc and how to use it.
 * [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
 * [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
@@ -168,7 +181,9 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 ## Language Agnostic
 
-### DSA
+### Data Structures & Algorithms
+
+Search words: DSA
 
 * [Free Course - Sedgewick's Coursera Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Free Course - Sedgewick's Coursera Part 2](https://www.coursera.org/learn/algorithms-part2)
@@ -182,6 +197,8 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Paid Book - Elements of Programming Interviews !WARNING COMES IN SEVERAL LANGUAGES!](https://bit.ly/epipython)
 
 ### Machine Learning
+
+Search words: ML
 
 * [Free Course - Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
 * [Free Book - Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
