@@ -68,7 +68,7 @@ Search words: cpp
 Search words: JS, ES5, ES6, ES2017
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/) &mdash; Free to Read Online: A Modern Introduction to Programming
-* [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &mdash; A community wiki with a JavaScript reference section, including compatability charts.
+* [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &mdash; A community wiki with a JavaScript reference section, including compatibility charts.
 * [JS The Right Way](http://jstherightway.org/) &mdash; An overview of JS with a list of additional resources.
 * [javascript.info](javascript.info) &mdash; A tutorial on the new features in Javascript.
 * [JS in 2017](https://medium.freecodecamp.org/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd) &mdash; "there's a collection of stuff".
@@ -177,7 +177,7 @@ Search words: Ruby on Rails
 * [Rustdoc Guide](https://doc.rust-lang.org/rustdoc/) &mdash; A short guide on rustdoc and how to use it.
 * [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
 * [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
-* [Discovery](https://japaric.github.io/discovery/) &mdash; An "introductory course" on microcontroller-based "embedded systems" using Rust.
+* [Discovery](https://japaric.github.io/discovery/) &mdash; An "introductory course" on microcontroller based "embedded systems" using Rust.
 
 ## Language Agnostic
 

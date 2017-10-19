@@ -8,10 +8,10 @@ below:
 ## Subject
 *Description*
 ### Learning
-* Thing1 &mdash; Short description of Thing 1
-* Thing2 &mdash; Short description of Thing 2
+* Thing 1 &mdash; Short description of Thing 1
+* Thing 2 &mdash; Short description of Thing 2
 ### Culture
-* Thing3 &mdash; Short description of Thing 3
+* Thing 3 &mdash; Short description of Thing 3
 
 Those are `&mdash;` 
 
