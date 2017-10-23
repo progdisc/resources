@@ -31,7 +31,7 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Because pointers are a pain
 * [C Debugging cheatsheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out
 
-### C#
+### C\#
 
 Search words: c-sharp, csharp
 
