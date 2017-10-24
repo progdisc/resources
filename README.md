@@ -2,34 +2,35 @@
 
 A curated list of learning resources recommended by the Programming Discussions server on Discord.
 
-- [Languages](#languages)
-  - [C](#c)
-  - [C#](#c-1)
-  - [C++](#c-2)
-  - [CSS](#css)
-  - [Java](#java)
-  - [Javascript](#javascript)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Go](#go)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-- [Language Agnostic](#language-agnostic)
-  - [Data Structures & Algorithms](#data-structures--algorithms)
-  - [Interviews](#interviews)
-  - [Machine Learning](#machine-learning)
+* [Languages](#languages)
+  * [C](#c)
+  * [C#](#c-1)
+  * [C++](#c-2)
+  * [CSS](#css)
+  * [Java](#java)
+  * [Javascript](#javascript)
+  * [PHP](#php)
+  * [Python](#python)
+  * [Go](#go)
+  * [Ruby](#ruby)
+  * [Rust](#rust)
+* [Language Agnostic](#language-agnostic)
+  * [Data Structures & Algorithms](#data-structures--algorithms)
+  * [Interviews](#interviews)
+  * [Networking](#networking)
+  * [Machine Learning](#machine-learning)
 
 ## Languages
 
 ### C
 
 * [Programming in C](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410) &mdash; 4th edition of introductory book for programming in C
-* [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.  
+* [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.
 * [Tutorials point](https://www.tutorialspoint.com/cprogramming/) &mdash; Reference for C and its features. May not be a bit overwhelming for a *complete* beginner to programming but good for its use.
 * [Introduction to C Programming](http://www.tti.unipa.it/~ricrizzo/KS/Data/RMiles/contents.html) &mdash; Self-explanatory. Also available [here](http://student.itee.uq.edu.au/courses/csse2310/CProgrammingNotes.pdf) as a PDF.
 * [Stanford Education Library](http://cslibrary.stanford.edu/)'s CS resources on C, UNIX, and other things implemented in C
 * [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Because pointers are a pain
-* [C Debugging cheatsheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out
+* [C Debugging cheat sheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out
 
 ### C\#
 
@@ -206,6 +207,13 @@ Search words: ML
 * [Free Book - Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [YouTube - Sentdex](https://www.youtube.com/sentdex)
 * [YouTube - Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+### Networking
+
+* [Free Course - CCNA/CCENT 200-120](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC)
+* [Paid Courses - Chris Bryant on Udemy](https://www.udemy.com/user/chrisbryant/)
+  * Frequently on sale for ~$10 USD each
+* [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
 
 ### Podcasts
 
