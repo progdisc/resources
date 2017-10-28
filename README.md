@@ -17,8 +17,10 @@ A curated list of learning resources recommended by the Programming Discussions 
 * [Language Agnostic](#language-agnostic)
   * [Data Structures & Algorithms](#data-structures--algorithms)
   * [Interviews](#interviews)
-  * [Networking](#networking)
   * [Machine Learning](#machine-learning)
+  * [Networking](#networking)
+  * [Open Source](#open-source)
+
 
 ## Languages
 
@@ -214,6 +216,14 @@ Search words: ML
 * [Paid Courses - Chris Bryant on Udemy](https://www.udemy.com/user/chrisbryant/)
   * Frequently on sale for ~$10 USD each
 * [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
+
+### Open Source
+* [Website - Opensource.com](https://opensource.com/resources/what-open-source)
+  * What exactly is 'Open Source' ? Get an gentle overview.
+* [Website - Opensource.guide](https://opensource.guide)
+  * A site that can answer questions regarding open source software such as: legality, getting paid for open source work, and more.
+* [Github - Finding open source projects to contribute to](https://help.github.com/articles/finding-open-source-projects-on-github/)
+  * Ready to find an open souce project to contribute to?
 
 ### Podcasts
 
