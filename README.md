@@ -19,7 +19,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   * [Interviews](#interviews)
   * [Machine Learning](#machine-learning)
   * [Networking](#networking)
-  * [Opensource](#opensource)
+  * [Open Source](#open-source)
 
 
 ## Languages
@@ -217,7 +217,7 @@ Search words: ML
   * Frequently on sale for ~$10 USD each
 * [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
 
-### Opensource
+### Open Source
 * [Website - Opensource.com](https://opensource.com/resources/what-open-source)
   * What exactly is 'Open Source' ? Get an gentle overview.
 * [Website - Opensource.guide](https://opensource.guide)
