@@ -217,12 +217,12 @@ Search words: ML
 
 ### Podcasts
 
-* 🆓 [*Programming Throwdown*](http://www.programmingthrowdown.com/) &mdash; Every show covers a new programming language and assorted tech topics.
-* 🆓 [*Coding Blocks*](https://www.codingblocks.net/) &mdash; Pragmatic talk about software design best practices: design patterns, software architecture, performance, object oriented programming, and more.
-* 🆓 [*Coder Radio* by Jupiter Broadcasting](http://www.jupiterbroadcasting.com/show/coderradio/) &mdash; Weekly discussion about software development and related technologies.
-* 🆓 [*Talk Python to Me* by Michael Kennedy](https://talkpython.fm) &mdash; Interview podcast that brings on guests working on niche Python projects you should be aware of.
-* 🆓 [*Simple Programmer* by John Sonmez](https://www.youtube.com/playlist?list=PLjwWT1Xy3c4U4xrSdGiN9fh04NjHoNwTq) &mdash; Straight talk about productivity and career development for software developers.
-* 🆓 [*whiletruefm*](http://whiletrue.fm) &mdash; Fortnightly technology discussion podcast formed by ProgDisc users.
+* 🆓🎙 [*Programming Throwdown*](http://www.programmingthrowdown.com/) &mdash; Every show covers a new programming language and assorted tech topics.
+* 🆓🎙 [*Coding Blocks*](https://www.codingblocks.net/) &mdash; Pragmatic talk about software design best practices: design patterns, software architecture, performance, object oriented programming, and more.
+* 🆓🎙 [*Coder Radio* by Jupiter Broadcasting](http://www.jupiterbroadcasting.com/show/coderradio/) &mdash; Weekly discussion about software development and related technologies.
+* 🆓🎙 [*Talk Python to Me* by Michael Kennedy](https://talkpython.fm) &mdash; Interview podcast that brings on guests working on niche Python projects you should be aware of.
+* 🆓🎙 [*Simple Programmer* by John Sonmez](https://www.youtube.com/playlist?list=PLjwWT1Xy3c4U4xrSdGiN9fh04NjHoNwTq) &mdash; Straight talk about productivity and career development for software developers.
+* 🆓🎙 [*whiletruefm*](http://whiletrue.fm) &mdash; Fortnightly technology discussion podcast formed by ProgDisc users.
 
 # License
 
