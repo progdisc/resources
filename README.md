@@ -144,7 +144,7 @@ Search words: Cascading Style Sheets
 * 🆓 [Documentation](https://golang.org/doc/)
 * 🆓 [Official Tour](https://tour.golang.org/welcome/1)
 * 🆓 [Introductory Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
-* 🆓 [Effective Go <- READ THIS](https://golang.org/doc/effective_go.html)
+* 🆓 [Effective Go](https://golang.org/doc/effective_go.html)
 
 #### Materials
 
