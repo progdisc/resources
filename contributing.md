@@ -26,3 +26,11 @@ efficient style.
 This list is general, so it welcomes the addition of new sections, but just keep
 in mind that a first level heading should be able to support many second level
 heading topics.
+
+## Spellchecking
+
+This project includes a setup for spellchecking with npm packages. To use it,
+
+1) install npm
+2) run `npm install`
+3) run `npm test`
