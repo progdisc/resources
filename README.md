@@ -55,9 +55,6 @@ Search words: cpp
 
 * 🆓 [Java Platform Documentation](https://docs.oracle.com/javase/8/docs/api/) &mdash; Official Java SE 8 Documentation.
 * 🆓 [Oracle Tutorial](https://docs.oracle.com/javase/tutorial/) &mdash; Official Java Tutorial by Oracle.
-
-#### Materials
-
 * 🆓 [Software Construction](https://ocw.mit.edu/ans7870/6/6.005/s16/) &mdash; MIT 6.005: Software Construction (Warning: Needs some programming experience).
 * 💲 [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) &mdash; For those looking for a deeper understanding of Java, to create clearer, more correct, more robust, and more reusable code.
 
@@ -101,16 +98,9 @@ Search words: Cascading Style Sheets
 * 🆓 [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
 * 🆓 [Tutorial: Simple introduction to CSS](http://learnlayout.com/)
 * 🆓 [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
-
-#### Materials
-
 * 🆓 [Tutorials/Documentation (Good for Quick Reference)](https://w3schools.com/css/default.asp)
 
 ### PHP
-
-#### Materials
-
-* 🆓 [PSR](http://www.php-fig.org/psr/) &mdash; a collection of community-made standards and best practices for PHP
 
 #### Learning
 
@@ -118,6 +108,10 @@ Search words: Cascading Style Sheets
 * 🆓 [Official PHP Documentation](http://php.net/docs.php) &mdash; Select a language on the page.
 * 🆓 [Learn PHP the right way](http://www.phptherightway.com/) &mdash; Free online free book/reference manual.
 * 🆓 [PHP 7](http://www.tutorialspoint.com/php7/) &mdash; Interactive tutorial http://www.tutorialspoint.com/
+
+#### Culture
+
+* 🆓 [PSR](http://www.php-fig.org/psr/) &mdash; a collection of community-made standards and best practices for PHP
 
 ### Python
 
@@ -133,7 +127,7 @@ Search words: Cascading Style Sheets
 
 #### Culture
 
-* 🆓 [Talk Python to Me](https://talkpython.fm) by Michael Kennedy &mdash;
+* 🆓 [*Talk Python to Me*](https://talkpython.fm) by Michael Kennedy &mdash;
   A weekly discussion about a Python project you should know about, usually with
   their developers.
 
@@ -145,9 +139,6 @@ Search words: Cascading Style Sheets
 * 🆓 [Official Tour](https://tour.golang.org/welcome/1)
 * 🆓 [Introductory Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
 * 🆓 [Effective Go](https://golang.org/doc/effective_go.html)
-
-#### Materials
-
 * 🆓 [Godoc](https://godoc.org/)
 
 ### Ruby
