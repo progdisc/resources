@@ -217,11 +217,12 @@ Search words: ML
 
 ### Podcasts
 
-* 🆓 [Programming Throwdown](http://www.programmingthrowdown.com/) &mdash; Every show covers a new programming language and assorted tech topics.
-* 🆓 [Coding Blocks](https://www.codingblocks.net/) &mdash; Pragmatic talk about software design best practices: design patterns, software architecture, performance, object oriented programming, and database design.
+* 🆓 [*Programming Throwdown*](http://www.programmingthrowdown.com/) &mdash; Every show covers a new programming language and assorted tech topics.
+* 🆓 [*Coding Blocks*](https://www.codingblocks.net/) &mdash; Pragmatic talk about software design best practices: design patterns, software architecture, performance, object oriented programming, and database design.
 * 🆓 [*Coder Radio* by Jupiter Broadcasting](http://www.jupiterbroadcasting.com/show/coderradio/)
 * 🆓 [*Talk Python to Me* by Michael Kennedy](https://talkpython.fm)
 * 🆓 [*Simple Programmer* by John Sonmez](https://www.youtube.com/playlist?list=PLjwWT1Xy3c4U4xrSdGiN9fh04NjHoNwTq)
+* 🆓 [*whiletruefm*](http://whiletrue.fm) &mdash; fortnightly technology discussion podcast formed by ProgDisc users
 
 # License
 
