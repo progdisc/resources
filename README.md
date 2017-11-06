@@ -180,23 +180,23 @@ Search words: DSA
 
 * 🆓 [Sedgewick's Coursera Part 1](https://www.coursera.org/learn/algorithms-part1)
 * 🆓 [Sedgewick's Coursera Part 2](https://www.coursera.org/learn/algorithms-part2)
-* 💲 [Paid Book - Sedgewick's Algorithms in Java](http://algs4.cs.princeton.edu/home/)
-* 💲 [Paid Book - CLRS/Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
+* 💲📘 [Sedgewick's Algorithms in Java](http://algs4.cs.princeton.edu/home/)
+* 💲📘 [CLRS/Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
 
 ### Interviews
 
-* 💲 [Paid Book - Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/)
-* 💲 [Paid Book - Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
-* 💲 [Paid Book - Elements of Programming Interviews !WARNING COMES IN SEVERAL LANGUAGES!](https://bit.ly/epipython)
+* 💲📘 [Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/)
+* 💲📘 [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
+* 💲📘 [Elements of Programming Interviews !WARNING COMES IN SEVERAL LANGUAGES!](https://bit.ly/epipython)
 
 ### Machine Learning
 
 Search words: ML
 
 * 🆓 [Course - Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
-* 🆓 [Book - Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-* 🆓 [Book - Deep Learning Book - !WARNING MATH HEAVY!](http://www.deeplearningbook.org/)
-* 🆓 [Book - Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
+* 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+* 🆓📘 [Deep Learning Book - !WARNING MATH HEAVY!](http://www.deeplearningbook.org/)
+* 🆓📘 [Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
 * 🆓 [YouTube - Sentdex](https://www.youtube.com/sentdex)
 * 🆓 [YouTube - Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
