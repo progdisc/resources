@@ -127,7 +127,7 @@ Search words: Cascading Style Sheets
 
 #### Culture
 
-* 🆓 [*Talk Python to Me*](https://talkpython.fm) by Michael Kennedy &mdash;
+* 🆓🎙 [*Talk Python to Me*](https://talkpython.fm) by Michael Kennedy &mdash;
   A weekly discussion about a Python project you should know about, usually with
   their developers.
 
