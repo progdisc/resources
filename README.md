@@ -117,13 +117,13 @@ Search words: Cascading Style Sheets
 
 #### Learning
 
-* 🆓 [Automate the Boring Stuff](http://automatetheboringstuff.com) by Al
+* 🆓📘 [Automate the Boring Stuff](http://automatetheboringstuff.com) by Al
   Sweigart &mdash; An introduction to the language focused on showing how Python
   can help you with tasks around the office today.
-* 🆓 [Hitchhiker's Guide to Python](docs.python-guide.org/en/latest/) &mdash; A great guide to learning Python practices, setting up dev environments, packaging, and a lot of other information you're unlikely to learn from a guide or even unlikely to learn without hard experience
-* 🆓 [Google Course](https://developers.google.com/edu/python/) &mdash; Self explanatory. Course by Google. Who better to learn from? Do keep in mind, Google tends to use a different style guide to standard Python.
-* 🆓 [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) &mdash; Introduction to CS and programming with Python, MOOC by MIT
-* 🆓 [Corey Schafer on Youtube](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
+* 🆓📘 [Hitchhiker's Guide to Python](docs.python-guide.org/en/latest/) &mdash; A great guide to learning Python practices, setting up dev environments, packaging, and a lot of other information you're unlikely to learn from a guide or even unlikely to learn without hard experience
+* 🆓🎓 [Google Course](https://developers.google.com/edu/python/) &mdash; Self explanatory. Course by Google. Who better to learn from? Do keep in mind, Google tends to use a different style guide to standard Python.
+* 🆓🎓 [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) &mdash; Introduction to CS and programming with Python, MOOC by MIT
+* 🆓🎥 [Corey Schafer on Youtube](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
 
 #### Culture
 
