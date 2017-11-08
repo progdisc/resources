@@ -20,6 +20,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   * [Machine Learning](#machine-learning)
   * [Networking](#networking)
   * [Open Source](#open-source)
+  * [Testing](#testing)
 
 ## Languages
 
@@ -214,6 +215,17 @@ Search words: ML
   * A site that can answer questions regarding open source software such as: legality, getting paid for open source work, and more.
 * [GitHub - Finding open source projects to contribute to](https://help.github.com/articles/finding-open-source-projects-on-github/)
   * Ready to find an open source project to contribute to?
+
+### Testing
+A good test (by [samwho](http://samwho.co.uk)):
+
+1) Tests functionality in your code, not the framework or language you're using.
+2) Tests for a single thing and a single thing only.
+3) Will not break when the implementation of what's being tested is changed.
+4) Does not depend on anything from the outside world, and leaves nothing behind when it's done.
+
+* 💲📘 [*Beautiful Testing*](http://shop.oreilly.com/product/9780596159825.do) &mdash; A series of essays that break down testing as a philosophy, as a process, and as aided by good tools.
+
 
 ### Podcasts
 
