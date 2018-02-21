@@ -16,6 +16,7 @@ A curated list of learning resources recommended by the Programming Discussions 
   * [Rust](#rust)
 * [Language Agnostic](#language-agnostic)
   * [Data Structures & Algorithms](#data-structures--algorithms)
+  * [Git](#git)
   * [Interviews](#interviews)
   * [Machine Learning](#machine-learning)
   * [Networking](#networking)
@@ -184,6 +185,9 @@ Search words: DSA
 * 🆓 [Sedgewick's Coursera Part 2](https://www.coursera.org/learn/algorithms-part2)
 * 💲📘 [Sedgewick's Algorithms in Java](http://algs4.cs.princeton.edu/home/)
 * 💲📘 [CLRS/Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
+
+### Git
+* 🆓 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow
 
 ### Interviews
 
