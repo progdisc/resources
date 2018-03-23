@@ -45,12 +45,13 @@ Search words: c-sharp, csharp
 * 💲📘 [C# in Depth, Third Edition by Jon Skeet (http://meta.stackexchange.com/q/9134)](https://www.manning.com/books/c-sharp-in-depth-third-edition)
 * 💲 [Paid Course Library: Fundamentals, ASP.NET MVC, LINQ, Entity Framework and more](https://teamtreehouse.com/library/topic:csharp)
 
-### C++
+### C\++
 
 Search words: cpp
 
 * 🆓📘 [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
+* 🆓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; An Udacity course designed for students who are familiar with a programming language and wish to learn C++.
 * 🆓 [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
 
 ### Java
