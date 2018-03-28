@@ -4,8 +4,8 @@ A curated list of learning resources recommended by the Programming Discussions 
 
 * [Languages](#languages)
   * [C](#c)
-  * [C#](#c-sharp)
-  * [C++](#c-plus-plus)
+  * [C#](#c-1)
+  * [C++](#c-2)
   * [CSS](#css)
   * [Java](#java)
   * [Javascript](#javascript)
