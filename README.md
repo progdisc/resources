@@ -42,7 +42,7 @@ Search words: c-sharp, csharp
 * 💲📘 [Rob Miles' C# Programming Yellow Book](http://www.robmiles.com/c-yellow-book/) is the go-to guide for learning or refreshing C# skills.
 * 🆓 [Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 * 🆓 [Video Series: Getting Started with Visual Studio & C# .NET with Nerdgasm](https://www.youtube.com/watch?v=Yj0G5UdBJZw&list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n)
-* 💲📘 [C# in Depth, Third Edition by Jon Skeet (http://meta.stackexchange.com/q/9134)](https://www.manning.com/books/c-sharp-in-depth-third-edition)
+* 💲📘 [C# in Depth, Third Edition by Jon Skeet](https://www.manning.com/books/c-sharp-in-depth-third-edition) (http://meta.stackexchange.com/q/9134)
 * 💲 [Paid Course Library: Fundamentals, ASP.NET MVC, LINQ, Entity Framework and more](https://teamtreehouse.com/library/topic:csharp)
 
 ### C\++
