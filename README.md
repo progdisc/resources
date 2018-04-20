@@ -206,6 +206,7 @@ Search words: ML
 * 🆓📘 [Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
 * 🆓 [YouTube - Sentdex](https://www.youtube.com/sentdex)
 * 🆓 [YouTube - Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* 💲 [Udemy - Machine Learning A-Z](https://www.udemy.com/machinelearning/)
 
 ### Networking
 
