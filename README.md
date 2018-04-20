@@ -60,7 +60,7 @@ Search words: cpp
 * 🆓📘 [Oracle Tutorial](https://docs.oracle.com/javase/tutorial/) &mdash; Official Java Tutorial by Oracle.
 * 🆓 [Software Construction](https://ocw.mit.edu/ans7870/6/6.005/s16/) &mdash; MIT 6.005: Software Construction (Warning: Needs some programming experience).
 * 💲📘 [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) &mdash; For those looking for a deeper understanding of Java, to create clearer, more correct, more robust, and more reusable code.
-* 🆓 [YouTube - Derek Banas](https://m.youtube.com/user/derekbanas)
+* 🆓 [YouTube - Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 
 #### Learning
 
