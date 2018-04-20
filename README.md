@@ -200,7 +200,7 @@ Search words: DSA
 
 Search words: ML
 
-* 🆓 [Course - Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
+* 🆓 [Coursera- Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
 * 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * 🆓📘 [Deep Learning Book - !WARNING MATH HEAVY!](http://www.deeplearningbook.org/)
 * 🆓📘 [Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
