@@ -60,6 +60,7 @@ Search words: cpp
 * 🆓📘 [Oracle Tutorial](https://docs.oracle.com/javase/tutorial/) &mdash; Official Java Tutorial by Oracle.
 * 🆓 [Software Construction](https://ocw.mit.edu/ans7870/6/6.005/s16/) &mdash; MIT 6.005: Software Construction (Warning: Needs some programming experience).
 * 💲📘 [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) &mdash; For those looking for a deeper understanding of Java, to create clearer, more correct, more robust, and more reusable code.
+* 🆓 [YouTube - Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 
 #### Learning
 
@@ -200,12 +201,13 @@ Search words: DSA
 
 Search words: ML
 
-* 🆓 [Course - Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
+* 🆓 [Coursera- Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
 * 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * 🆓📘 [Deep Learning Book - !WARNING MATH HEAVY!](http://www.deeplearningbook.org/)
 * 🆓📘 [Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
 * 🆓 [YouTube - Sentdex](https://www.youtube.com/sentdex)
 * 🆓 [YouTube - Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* 💲 [Udemy - Machine Learning A-Z](https://www.udemy.com/machinelearning/)
 
 ### Networking
 
