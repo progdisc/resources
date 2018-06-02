@@ -1,5 +1,3 @@
-A curated list of learning resources recommended by the Programming Discussions server on Discord.
-
 * [Languages](#languages)
   * [C](#c)
   * [C#](#c-1)
