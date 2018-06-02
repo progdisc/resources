@@ -1,5 +1,3 @@
-# Programming Discussions Recommendations
-
 A curated list of learning resources recommended by the Programming Discussions server on Discord.
 
 * [Languages](#languages)
