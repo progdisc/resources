@@ -23,7 +23,7 @@
 
 ### C
 
-* 💲📘 [C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504) &mdash; 2nd edition of an introductory book for programming in C. 
+* 💲📘 [C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504) &mdash; 2nd edition of K.N. King's C Programming: A Modern Approach.
 * 💲📘 [Programming in C](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410) &mdash; 4th edition of introductory book for programming in C
 * 🆓 [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.
 * 🆓📘 [Tutorials point](https://www.tutorialspoint.com/cprogramming/) &mdash; Reference for C and its features. May not be a bit overwhelming for a *complete* beginner to programming but good for its use.
