@@ -1,4 +1,5 @@
 * [Languages](#languages)
+  * [Bash](#bash)
   * [C](#c)
   * [C#](#c-1)
   * [C++](#c-2)
@@ -20,6 +21,15 @@
   * [Testing](#testing)
 
 ## Languages
+
+### Bash
+
+* 🆓📘[Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
+* 🆓📘[Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/index.html)
+* 🆓📘[Bash Reference Manual](https://www.gnu.org/software/bash/manual/)
+* 🆓[Greg's BashGuide Wiki](https://mywiki.wooledge.org/BashGuide)
+* 🆓[Bash Hackers Wiki](http://wiki.bash-hackers.org/)
+
 
 ### C
 
@@ -122,7 +132,7 @@ Search words: Cascading Style Sheets
 * 🆓📘 [Automate the Boring Stuff](http://automatetheboringstuff.com) by Al
   Sweigart &mdash; An introduction to the language focused on showing how Python
   can help you with tasks around the office today.
-* 🆓📘 [Think Python V2](http://greenteapress.com/thinkpython2/html/index.html) &mdash; Covers the Python language and thinking like a programmer in detail. Good supplement to what Automate the Boring Stuff does not cover. 
+* 🆓📘 [Think Python V2](http://greenteapress.com/thinkpython2/html/index.html) &mdash; Covers the Python language and thinking like a programmer in detail. Good supplement to what Automate the Boring Stuff does not cover.
 * 🆓📘 [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) &mdash; A great guide to learning Python practices, setting up dev environments, packaging, and a lot of other information you're unlikely to learn from a guide or even unlikely to learn without hard experience
 * 🆓🎓 [Google Course](https://developers.google.com/edu/python/) &mdash; Course by Google. Do keep in mind, Google tends to use a different style guide to standard Python.
 * 🆓🎓 [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) &mdash; Introduction to CS and programming with Python, MOOC by MIT
