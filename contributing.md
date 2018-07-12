@@ -34,3 +34,15 @@ This project includes a setup for spellchecking with npm packages. To use it,
 1) install npm
 2) run `npm install`
 3) run `npm test`
+
+## Emoji Legend
+| Property      | Emoji
+| ------------- | -----
+| Paid  | 💲 
+| Free | 🆓
+| Video | 🎥
+| Podcast/audio | 🎙
+| Book/Documents | 📘
+| Course/Tutorial | 🎓
+| Newsletter/subscription stuff | 📫
+| Assorted link | 🌐
