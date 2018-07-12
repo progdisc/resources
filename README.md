@@ -29,8 +29,8 @@
 * 🆓📘[Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 * 🆓📘[Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/index.html)
 * 🆓📘[Bash Reference Manual](https://www.gnu.org/software/bash/manual/)
-* 🆓[Greg's BashGuide Wiki](https://mywiki.wooledge.org/BashGuide)
-* 🆓[Bash Hackers Wiki](http://wiki.bash-hackers.org/)
+* 🆓🌐[Greg's BashGuide Wiki](https://mywiki.wooledge.org/BashGuide)
+* 🆓🌐[Bash Hackers Wiki](http://wiki.bash-hackers.org/)
 
 
 ### C
@@ -73,14 +73,14 @@ Search words: cpp
 
 #### Learning
 
-* 🆓 [Object Oriented Programming](http://mooc.fi/courses/2013/programming-part-1/) &mdash; Object-Oriented programming with Java, part I & II (University of Helsinki).
+* 🆓 [Object Oriented Programming](http://mooc.fi/courses/2013/programming-part-1/) &mdash; MOOC taught with Java, part I & II (University of Helsinki).
 
 ### Javascript
 
 Search words: JS, ES5, ES6, ES2017
 
 * 🆓📘 [Eloquent JavaScript](http://eloquentjavascript.net/) &mdash; Free to Read Online: A Modern Introduction to Programming
-* 🆓 [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &mdash; A community wiki with a JavaScript reference section, including compatibility charts.
+* 🆓📘 [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &mdash; A community wiki with a JavaScript reference section, including compatibility charts.
 * 🆓 [JS The Right Way](http://jstherightway.org/) &mdash; An overview of JS with a list of additional resources.
 * 🆓 [javascript.info](http://javascript.info/) &mdash; A tutorial on the new features in Javascript.
 * 🆓 [JS in 2017](https://medium.freecodecamp.org/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd) &mdash; "there's a collection of stuff".
@@ -96,7 +96,7 @@ Search words: JS, ES5, ES6, ES2017
 * 🆓 [Get Quickly in Pace with React.js Development](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 * 🆓 [Essential Concepts](https://www.codecademy.com/learn/react-101)
 * 🆓 [Continuation: Lifecycle Methods, Stateless Components and more](https://www.codecademy.com/learn/react-102)
-* 🆓 [Awesome react](https://github.com/enaqx/awesome-react)
+* 🆓🌐 [Awesome react](https://github.com/enaqx/awesome-react)
 * 🆓 [Redux doc's](http://redux.js.org/)
 * 🆓 [Dan Abramov's free course for redux](https://egghead.io/courses/getting-started-with-redux)
 * 🆓 [React-redux-links](https://github.com/markerikson/react-redux-links)
@@ -108,7 +108,7 @@ Search words: Cascading Style Sheets
 #### Learning
 
 * 🆓 [Tutorials/Documentation (In-depth)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* 🆓 [A Free Visual Guide to CSS:](http://cssreference.io/)
+* 🆓 [A Free Visual Guide to CSS](http://cssreference.io/)
 * 🆓 [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
 * 🆓 [Tutorial: Simple introduction to CSS](http://learnlayout.com/)
 * 🆓 [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
@@ -125,7 +125,7 @@ Search words: Cascading Style Sheets
 
 #### Culture
 
-* 🆓 [PSR](http://www.php-fig.org/psr/) &mdash; a collection of community-made standards and best practices for PHP
+* 🆓 [PSR](http://www.php-fig.org/psr/) &mdash; A collection of community-made standards and best practices for PHP
 
 ### Python
 
@@ -151,10 +151,10 @@ Search words: Cascading Style Sheets
 
 #### Learning
 
-* 🆓 [Documentation](https://golang.org/doc/)
+* 🆓📘 [Documentation](https://golang.org/doc/)
 * 🆓 [Official Tour](https://tour.golang.org/welcome/1)
 * 🆓 [Introductory Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
-* 🆓 [Effective Go](https://golang.org/doc/effective_go.html)
+* 🆓📘 [Effective Go](https://golang.org/doc/effective_go.html)
 * 🆓 [Godoc](https://godoc.org/)
 
 ### Ruby
@@ -172,20 +172,20 @@ Search words: Ruby on Rails
 * 🆓 [Exercise Focused: Codecademy Ruby](https://www.codecademy.com/learn/ruby)
 * 🆓 [Ruby on Rails 5: Ruby on Rails Tutorial](https://www.railstutorial.org/book/)
 * 🆓 [Ruby on Rails: Learn Ruby on Rails from Scratch](https://www.udemy.com/learn-ruby-on-rails-from-scratch)
-* [Paid (Course Library): TeamTreehouse: Learn Ruby](https://teamtreehouse.com/tracks/learn-ruby)
+* 💲🎓 [TeamTreehouse: Learn Ruby](https://teamtreehouse.com/tracks/learn-ruby)
 
 ### Rust
 
 #### Learning
 
-* 🆓 [The Rust Book](https://doc.rust-lang.org/nightly/book/second-edition/) &mdash; It contains pretty much everything you need to know about Rust.
+* 🆓📘 [The Rust Book](https://doc.rust-lang.org/nightly/book/second-edition/) &mdash; It contains pretty much everything you need to know about Rust.
 * 🆓 [Rust By Example](http://rustbyexample.com/) &mdash; A nice tutorial for people who already know how to program.
-* 🆓 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) &mdash; Everything you need to know about macros.
-* 🆓 [Rust Documentation](https://doc.rust-lang.org/) &mdash; List of useful Rust documentations, such as: The Rust Language Reference & The standard library API.
-* 🆓 [The Rustonomicon](https://doc.rust-lang.org/nomicon/README.html#the-rustonomicon) &mdash; The Dark Arts of Advanced and Unsafe Rust Programming.
+* 🆓📘 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) &mdash; Everything you need to know about macros.
+* 🆓📘 [Rust Documentation](https://doc.rust-lang.org/) &mdash; List of useful Rust documentations, such as: The Rust Language Reference & The standard library API.
+* 🆓📘 [The Rustonomicon](https://doc.rust-lang.org/nomicon/README.html#the-rustonomicon) &mdash; The Dark Arts of Advanced and Unsafe Rust Programming.
 * 🆓 [Rustdoc Guide](https://doc.rust-lang.org/rustdoc/) &mdash; A short guide on rustdoc and how to use it.
-* 🆓 [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
-* 🆓 [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
+* 🆓🌐 [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
+* 🆓🌐 [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
 * 🆓 [Discovery](https://japaric.github.io/discovery/) &mdash; An "introductory course" on microcontroller-based "embedded systems" using Rust.
 
 ## Language Agnostic
@@ -194,14 +194,14 @@ Search words: Ruby on Rails
 
 Search words: DSA
 
-* 🆓 [Sedgewick's Coursera Part 1](https://www.coursera.org/learn/algorithms-part1)
-* 🆓 [Sedgewick's Coursera Part 2](https://www.coursera.org/learn/algorithms-part2)
+* 🆓🎓 [Sedgewick's Coursera Part 1](https://www.coursera.org/learn/algorithms-part1)
+* 🆓🎓 [Sedgewick's Coursera Part 2](https://www.coursera.org/learn/algorithms-part2)
 * 💲📘 [Sedgewick's Algorithms in Java](http://algs4.cs.princeton.edu/home/)
 * 💲📘 [CLRS/Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
 
 ### Git
 * 🆓 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow
-* 🆓 [Pro Git](https://git-scm.com/book/en/v2) &mdash; A start-to-finish book on how to use and understand Git.
+* 🆓📘 [Pro Git](https://git-scm.com/book/en/v2) &mdash; A start-to-finish book on how to use and understand Git.
 
 ### Interviews
 
@@ -213,28 +213,25 @@ Search words: DSA
 
 Search words: ML
 
-* 🆓 [Coursera- Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
+* 🆓🎓 [Andrew Ng's Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
 * 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * 🆓📘 [Deep Learning Book - !WARNING MATH HEAVY!](http://www.deeplearningbook.org/)
 * 🆓📘 [Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
-* 🆓 [YouTube - Sentdex](https://www.youtube.com/sentdex)
-* 🆓 [YouTube - Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-* 💲 [Udemy - Machine Learning A-Z](https://www.udemy.com/machinelearning/)
+* 🆓🎥 [Sentdex's YouTube channel](https://www.youtube.com/sentdex)
+* 🆓🎥 [Siraj Raval's YouTube channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* 💲🎓 [Udemy - Machine Learning A-Z](https://www.udemy.com/machinelearning/)
 
 ### Networking
 
-* 🆓 [Course - CCNA/CCENT 200-120](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC)
-* 💲 [Paid Courses - Chris Bryant on Udemy](https://www.udemy.com/user/chrisbryant/)
+* 🆓🎓 [CCNA/CCENT 200-120 Course](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC)
+* 💲🎓 [Chris Bryant on Udemy](https://www.udemy.com/user/chrisbryant/)
   * Frequently on sale for ~$10 USD each
-* 💲 [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
+* 💲🎓 [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
 
 ### Open Source
-* [Website - Opensource.com](https://opensource.com/resources/what-open-source)
-  * What exactly is 'Open Source' ? Get an gentle overview.
-* [Website - Opensource.guide](https://opensource.guide)
-  * A site that can answer questions regarding open source software such as: legality, getting paid for open source work, and more.
-* [GitHub - Finding open source projects to contribute to](https://help.github.com/articles/finding-open-source-projects-on-github/)
-  * Ready to find an open source project to contribute to?
+* 🆓🌐[Opensource.com](https://opensource.com/resources/what-open-source) &mdash; What exactly is 'Open Source'? Get an gentle overview.
+* 🆓🌐[Opensource.guide](https://opensource.guide) &mdash; Answers common questions about open source software topics, like its legality and how to get paid.
+* 🆓🌐["Finding open source projects to contribute to" from GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/) &mdash; Ready to find an open source project to contribute to?
 
 ### Podcasts
 
