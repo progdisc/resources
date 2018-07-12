@@ -35,14 +35,14 @@
 
 ### C
 
-* 💲📘 [C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504) &mdash; 2nd edition of K.N. King's C Programming: A Modern Approach.
-* 💲📘 [Programming in C](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410) &mdash; 4th edition of introductory book for programming in C
-* 🆓 [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.
+* 💲📘 [*C Programming: A Modern Approach*](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504) &mdash; K.N. King's explanation of C89 and C99 in context.
+* 💲📘 [*Programming in C*](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410) &mdash; An introductory book for programming in C
+* 🆓🎓 [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.
 * 🆓📘 [Tutorials point](https://www.tutorialspoint.com/cprogramming/) &mdash; Reference for C and its features. May not be a bit overwhelming for a *complete* beginner to programming but good for its use.
-* 🆓📘 [Introduction to C Programming](http://www.tti.unipa.it/~ricrizzo/KS/Data/RMiles/contents.html) &mdash; Self-explanatory. Also available [here](http://student.itee.uq.edu.au/courses/csse2310/CProgrammingNotes.pdf) as a PDF.
-* 🆓 [Stanford Education Library](http://cslibrary.stanford.edu/)'s CS resources on C, UNIX, and other things implemented in C
-* 🆓 [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Because pointers are a pain
-* 🆓 [C Debugging cheat sheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out
+* 🆓📘 [Introduction to C Programming](http://www.tti.unipa.it/~ricrizzo/KS/Data/RMiles/contents.html) &mdash; Also available [here](http://student.itee.uq.edu.au/courses/csse2310/CProgrammingNotes.pdf) as a PDF.
+* 🆓📘 [Stanford Computer Science Education Library](http://cslibrary.stanford.edu/) &mdash; Resources on C, UNIX, and other things implemented in C
+* 🆓📘 [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Knowing how to use a debugger like `gdb` is essential
+* 🆓📘 [C Debugging cheat sheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out
 
 ### C\#
 
@@ -52,24 +52,24 @@ Search words: c-sharp, csharp
 * 🆓 [Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 * 🆓 [Video Series: Getting Started with Visual Studio & C# .NET with Nerdgasm](https://www.youtube.com/watch?v=Yj0G5UdBJZw&list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n)
 * 💲📘 [C# in Depth, Third Edition by Jon Skeet](https://www.manning.com/books/c-sharp-in-depth-third-edition) (http://meta.stackexchange.com/q/9134)
-* 💲 [Paid Course Library: Fundamentals, ASP.NET MVC, LINQ, Entity Framework and more](https://teamtreehouse.com/library/topic:csharp)
+* 💲🎓 [TeamTreehouse: Fundamentals, ASP.NET MVC, LINQ, Entity Framework, etc.](https://teamtreehouse.com/library/topic:csharp)
 
 ### C\++
 
 Search words: cpp
 
 * 🆓📘 [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
-* [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
-* 🆓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; An Udacity course designed for students who are familiar with a programming language and wish to learn C++.
-* 🆓 [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
+* 🆓🌐 [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
+* 🆓🎓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; An Udacity course designed for students who are familiar with a programming language and wish to learn C++.
+* 🆓📘 [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
 
 ### Java
 
 * 🆓📘 [Java Platform Documentation](https://docs.oracle.com/javase/8/docs/api/) &mdash; Official Java SE 8 Documentation.
 * 🆓📘 [Oracle Tutorial](https://docs.oracle.com/javase/tutorial/) &mdash; Official Java Tutorial by Oracle.
-* 🆓 [Software Construction](https://ocw.mit.edu/ans7870/6/6.005/s16/) &mdash; MIT 6.005: Software Construction (Warning: Needs some programming experience).
+* 🆓 [Software Construction](https://ocw.mit.edu/ans7870/6/6.005/s16/) &mdash; MIT 6.005: Software Construction. Some programming experience needed.
 * 💲📘 [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) &mdash; For those looking for a deeper understanding of Java, to create clearer, more correct, more robust, and more reusable code.
-* 🆓 [YouTube - Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
+* 🆓🎥 [Derek Banas on YouTube](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 
 #### Learning
 
@@ -107,21 +107,20 @@ Search words: Cascading Style Sheets
 
 #### Learning
 
-* 🆓 [Tutorials/Documentation (In-depth)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* 🆓📘 [Documentation from Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * 🆓 [A Free Visual Guide to CSS](http://cssreference.io/)
-* 🆓 [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
-* 🆓 [Tutorial: Simple introduction to CSS](http://learnlayout.com/)
+* 🆓🎓 [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
+* 🆓🎓 [Simple introduction to CSS](http://learnlayout.com/)
 * 🆓 [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
-* 🆓 [Tutorials/Documentation (Good for Quick Reference)](https://w3schools.com/css/default.asp)
 
 ### PHP
 
 #### Learning
 
-* 🆓 [A simple tutorial](https://secure.php.net/manual/en/tutorial.php) &mdash; A good introduction.
-* 🆓 [Official PHP Documentation](http://php.net/docs.php) &mdash; Select a language on the page.
-* 🆓 [Learn PHP the right way](http://www.phptherightway.com/) &mdash; Free online free book/reference manual.
-* 🆓 [PHP 7](http://www.tutorialspoint.com/php7/) &mdash; Interactive tutorial http://www.tutorialspoint.com/
+* 🆓🎓 [A simple tutorial](https://secure.php.net/manual/en/tutorial.php) &mdash; A good introduction.
+* 🆓📘 [Official PHP Documentation](http://php.net/docs.php) &mdash; Select a language on the page.
+* 🆓📘 [Learn PHP the right way](http://www.phptherightway.com/) &mdash; Free online free book/reference manual.
+* 🆓🎓 [PHP 7](http://www.tutorialspoint.com/php7/) &mdash; Interactive tutorial http://www.tutorialspoint.com/
 
 #### Culture
 
