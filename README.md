@@ -209,6 +209,7 @@ Search words: ML
 * [Free Book - Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [YouTube - Sentdex](https://www.youtube.com/sentdex)
 * [YouTube - Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Free Course - Foundations of Machine Learning by Bloomberg](https://bloomberg.github.io/foml/#home)
 
 ### Networking
 
