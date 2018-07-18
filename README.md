@@ -49,8 +49,8 @@
 Search words: c-sharp, csharp
 
 * 💲📘 [Rob Miles' C# Programming Yellow Book](http://www.robmiles.com/c-yellow-book/) is the go-to guide for learning or refreshing C# skills.
-* 🆓 [Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
-* 🆓 [Video Series: Getting Started with Visual Studio & C# .NET with Nerdgasm](https://www.youtube.com/watch?v=Yj0G5UdBJZw&list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n)
+* 🆓🎓 [Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+* 🆓🎓 [Video Series: Getting Started with Visual Studio & C# .NET with Nerdgasm](https://www.youtube.com/watch?v=Yj0G5UdBJZw&list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n)
 * 💲📘 [C# in Depth, Third Edition by Jon Skeet](https://www.manning.com/books/c-sharp-in-depth-third-edition) (http://meta.stackexchange.com/q/9134)
 * 💲🎓 [TeamTreehouse: Fundamentals, ASP.NET MVC, LINQ, Entity Framework, etc.](https://teamtreehouse.com/library/topic:csharp)
 
@@ -73,7 +73,7 @@ Search words: cpp
 
 #### Learning
 
-* 🆓 [Object Oriented Programming](http://mooc.fi/courses/2013/programming-part-1/) &mdash; MOOC taught with Java, part I & II (University of Helsinki).
+* 🆓🎓 [Object Oriented Programming](http://mooc.fi/courses/2013/programming-part-1/) &mdash; MOOC taught with Java, part I & II (University of Helsinki).
 
 ### Javascript
 
@@ -81,25 +81,24 @@ Search words: JS, ES5, ES6, ES2017
 
 * 🆓📘 [Eloquent JavaScript](http://eloquentjavascript.net/) &mdash; Free to Read Online: A Modern Introduction to Programming
 * 🆓📘 [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &mdash; A community wiki with a JavaScript reference section, including compatibility charts.
-* 🆓 [JS The Right Way](http://jstherightway.org/) &mdash; An overview of JS with a list of additional resources.
-* 🆓 [javascript.info](http://javascript.info/) &mdash; A tutorial on the new features in Javascript.
-* 🆓 [JS in 2017](https://medium.freecodecamp.org/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd) &mdash; "there's a collection of stuff".
+* 🆓📘 [JS The Right Way](http://jstherightway.org/) &mdash; An overview of JS with a list of additional resources.
+* 🆓🎓 [javascript.info](http://javascript.info/) &mdash; A tutorial on the new features in Javascript.
 * 🆓📘 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) &mdash; Free JS book series written by Kyle Simpson.
 
 #### Videos
 
-* 🆓 [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) &mdash; Talk: Overview on the Javascript event loop. (26:52)
+* 🆓🎥 [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) &mdash; Talk: Overview on the Javascript event loop. (26:52)
 
 #### React
 
-* 🆓 [Hello World in React](https://facebook.github.io/react/docs/hello-world.html)
-* 🆓 [Get Quickly in Pace with React.js Development](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
-* 🆓 [Essential Concepts](https://www.codecademy.com/learn/react-101)
-* 🆓 [Continuation: Lifecycle Methods, Stateless Components and more](https://www.codecademy.com/learn/react-102)
+* 🆓📘 [Hello World in React](https://facebook.github.io/react/docs/hello-world.html)
+* 🆓🎥 [Get Quickly in Pace with React.js Development](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+* 🆓🎓 [Essential Concepts](https://www.codecademy.com/learn/react-101)
+* 🆓🎓 [Continuation: Lifecycle Methods, Stateless Components and more](https://www.codecademy.com/learn/react-102)
 * 🆓🌐 [Awesome react](https://github.com/enaqx/awesome-react)
-* 🆓 [Redux doc's](http://redux.js.org/)
-* 🆓 [Dan Abramov's free course for redux](https://egghead.io/courses/getting-started-with-redux)
-* 🆓 [React-redux-links](https://github.com/markerikson/react-redux-links)
+* 🆓📘 [Redux doc's](http://redux.js.org/)
+* 🆓🎓 [Dan Abramov's free course for Redux](https://egghead.io/courses/getting-started-with-redux)
+* 🆓🌐 [React-redux-links](https://github.com/markerikson/react-redux-links)
 
 ### CSS
 
@@ -108,10 +107,10 @@ Search words: Cascading Style Sheets
 #### Learning
 
 * 🆓📘 [Documentation from Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* 🆓 [A Free Visual Guide to CSS](http://cssreference.io/)
+* 🆓📘 [A Free Visual Guide to CSS](http://cssreference.io/)
 * 🆓🎓 [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
 * 🆓🎓 [Simple introduction to CSS](http://learnlayout.com/)
-* 🆓 [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
+* 🆓🎮 [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
 
 ### PHP
 
@@ -124,7 +123,7 @@ Search words: Cascading Style Sheets
 
 #### Culture
 
-* 🆓 [PSR](http://www.php-fig.org/psr/) &mdash; A collection of community-made standards and best practices for PHP
+* 🆓📘 [PSR](http://www.php-fig.org/psr/) &mdash; A collection of community-made standards and best practices for PHP
 
 ### Python
 
@@ -138,7 +137,7 @@ Search words: Cascading Style Sheets
 * 🆓🎓 [Google Course](https://developers.google.com/edu/python/) &mdash; Course by Google. Do keep in mind, Google tends to use a different style guide to standard Python.
 * 🆓🎓 [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) &mdash; Introduction to CS and programming with Python, MOOC by MIT
 * 🆓🎥 [Corey Schafer on Youtube](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
-* 🆓 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
+* 🆓📘 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
 
 #### Culture
 
@@ -151,10 +150,10 @@ Search words: Cascading Style Sheets
 #### Learning
 
 * 🆓📘 [Documentation](https://golang.org/doc/)
-* 🆓 [Official Tour](https://tour.golang.org/welcome/1)
-* 🆓 [Introductory Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
+* 🆓🎓 [Official Tour](https://tour.golang.org/welcome/1)
+* 🆓🎥 [Introductory Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
 * 🆓📘 [Effective Go](https://golang.org/doc/effective_go.html)
-* 🆓 [Godoc](https://godoc.org/)
+* 🆓📘 [Godoc](https://godoc.org/)
 
 ### Ruby
 
@@ -162,15 +161,14 @@ Search words: Ruby on Rails
 
 #### Learning
 
-* 🆓 [Official Ruby Core 2.4.1 Documentation](http://ruby-doc.org/core-2.4.1/)
-* 🆓 [Quickstart Guide: Ruby In Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-* 🆓 [Cheatsheet/Reference:](http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf)
-* 🆓 [Learn to Program with Ruby](https://pine.fm/LearnToProgram/)
-* 🆓 [Language Transition: Ruby From Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
-* 🆓 [Exercise Focused: Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
-* 🆓 [Exercise Focused: Codecademy Ruby](https://www.codecademy.com/learn/ruby)
-* 🆓 [Ruby on Rails 5: Ruby on Rails Tutorial](https://www.railstutorial.org/book/)
-* 🆓 [Ruby on Rails: Learn Ruby on Rails from Scratch](https://www.udemy.com/learn-ruby-on-rails-from-scratch)
+* 🆓📘 [Official Ruby Core 2.4.1 Documentation](http://ruby-doc.org/core-2.4.1/)
+* 🆓🎓 [Quickstart Guide: Ruby In Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+* 🆓📘 [Cheatsheet/Reference:](http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf)
+* 🆓📘 [Learn to Program with Ruby](https://pine.fm/LearnToProgram/)
+* 🆓📘 [Language Transition: Ruby From Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+* 🆓🎓 [Exercise Focused: Codecademy Ruby](https://www.codecademy.com/learn/ruby)
+* 🆓📘 [Ruby on Rails 5: Ruby on Rails Tutorial](https://www.railstutorial.org/book/)
+* 🆓🎓 [Ruby on Rails: Learn Ruby on Rails from Scratch](https://www.udemy.com/learn-ruby-on-rails-from-scratch)
 * 💲🎓 [TeamTreehouse: Learn Ruby](https://teamtreehouse.com/tracks/learn-ruby)
 
 ### Rust
@@ -178,14 +176,14 @@ Search words: Ruby on Rails
 #### Learning
 
 * 🆓📘 [The Rust Book](https://doc.rust-lang.org/nightly/book/second-edition/) &mdash; It contains pretty much everything you need to know about Rust.
-* 🆓 [Rust By Example](http://rustbyexample.com/) &mdash; A nice tutorial for people who already know how to program.
+* 🆓📘 [Rust By Example](http://rustbyexample.com/) &mdash; A nice tutorial for people who already know how to program.
 * 🆓📘 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) &mdash; Everything you need to know about macros.
 * 🆓📘 [Rust Documentation](https://doc.rust-lang.org/) &mdash; List of useful Rust documentations, such as: The Rust Language Reference & The standard library API.
 * 🆓📘 [The Rustonomicon](https://doc.rust-lang.org/nomicon/README.html#the-rustonomicon) &mdash; The Dark Arts of Advanced and Unsafe Rust Programming.
-* 🆓 [Rustdoc Guide](https://doc.rust-lang.org/rustdoc/) &mdash; A short guide on rustdoc and how to use it.
+* 🆓📘 [Rustdoc Guide](https://doc.rust-lang.org/rustdoc/) &mdash; A short guide on rustdoc and how to use it.
 * 🆓🌐 [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
 * 🆓🌐 [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
-* 🆓 [Discovery](https://japaric.github.io/discovery/) &mdash; An "introductory course" on microcontroller-based "embedded systems" using Rust.
+* 🆓🎓 [Discovery](https://japaric.github.io/discovery/) &mdash; An "introductory course" on microcontroller-based "embedded systems" using Rust.
 
 ## Language Agnostic
 
@@ -199,7 +197,7 @@ Search words: DSA
 * 💲📘 [CLRS/Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
 
 ### Git
-* 🆓 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow
+* 🆓🎮 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow
 * 🆓📘 [Pro Git](https://git-scm.com/book/en/v2) &mdash; A start-to-finish book on how to use and understand Git.
 
 ### Interviews
