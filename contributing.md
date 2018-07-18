@@ -38,11 +38,12 @@ This project includes a setup for spellchecking with npm packages. To use it,
 ## Emoji Legend
 | Property      | Emoji
 | ------------- | -----
-| Paid  | 💲 
-| Free | 🆓
-| Video | 🎥
-| Podcast/audio | 🎙
+| Assorted link | 🌐
 | Book/Documents | 📘
 | Course/Tutorial | 🎓
+| Free | 🆓
 | Newsletter/subscription stuff | 📫
-| Assorted link | 🌐
+| Paid  | 💲 
+| Podcast/audio | 🎙
+| Video | 🎥
+| Video game/Interactive experience | 🎮
