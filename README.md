@@ -242,10 +242,10 @@ Search words: ML
 ### Testing
 A good test (by [samwho](http://samwho.co.uk)):
 
-1) Tests functionality in your code, not the framework or language you're using.
-2) Tests for a single thing and a single thing only.
-3) Will not break when the implementation of what's being tested is changed.
-4) Does not depend on anything from the outside world, and leaves nothing behind when it's done.
+1. Tests functionality in your code, not the framework or language you're using.
+1. Tests for a single thing and a single thing only.
+1. Will not break when the implementation of what's being tested is changed.
+1. Does not depend on anything from the outside world, and leaves nothing behind when it's done.
 
 * 💲📘 [*Beautiful Testing*](http://shop.oreilly.com/product/9780596159825.do) &mdash; A series of essays that break down testing as a philosophy, as a process, and as aided by good tools.
 
