@@ -145,6 +145,10 @@ Search words: Cascading Style Sheets
   A weekly discussion about a Python project you should know about, usually with
   their developers.
 
+#### Frameworks
+ * 🆓🎓 [Official Django Tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/) - Official tutorial for Django, well regarded.
+ * 🆓🎓 [DjangoGirls Blog Tutorial](https://tutorial.djangogirls.org/en/) - Simple and short tutorial about how to make a blog with Django.
+
 ### Go
 
 #### Learning
