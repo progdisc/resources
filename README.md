@@ -138,6 +138,7 @@ Search words: Cascading Style Sheets
 * 🆓🎓 [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) &mdash; Introduction to CS and programming with Python, MOOC by MIT
 * 🆓🎥 [Corey Schafer on Youtube](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
 * 🆓📘 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
+* 🆓🎥 [Sentdex on Youtube](https://www.youtube.com/watch?v=eXBD2bB9-RA) &mdash; YouTube introduction to Python with a focus on "basics are boring; learn them quickly and build something."
 
 #### Culture
 
