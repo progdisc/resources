@@ -205,6 +205,7 @@ Search words: DSA
 ### Git
 * 🆓🎮 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow
 * 🆓📘 [Pro Git](https://git-scm.com/book/en/v2) &mdash; A start-to-finish book on how to use and understand Git.
+* 🆓📘 [Flight rules for git](https://github.com/k88hudson/git-flight-rules) &mdash; What to do when things go wrong.
 
 ### Interviews
 
