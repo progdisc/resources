@@ -188,7 +188,7 @@ Search words: Ruby on Rails
 * 🆓📘 [Rustdoc Guide](https://doc.rust-lang.org/rustdoc/) &mdash; A short guide on rustdoc and how to use it.
 * 🆓🌐 [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
 * 🆓🌐 [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
-* 🆓🎓 [Discovery](https://japaric.github.io/discovery/) &mdash; An "introductory course" on microcontroller-based "embedded systems" using Rust.
+* 🆓🎓 [Discovery](https://rust-embedded.github.io/discovery/) &mdash; An "introductory course" on microcontroller-based "embedded systems" using Rust.
 
 ## Language Agnostic
 
