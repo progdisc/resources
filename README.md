@@ -60,7 +60,7 @@ Search words: cpp
 
 * 🆓📘 [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
 * 🆓🌐 [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
-* 🆓🎓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; An Udacity course designed for students who are familiar with a programming language and wish to learn C++.
+* 🆓🎓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; A Udacity course designed for students who are familiar with a programming language and wish to learn C++.
 * 🆓📘 [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
 
 ### Java
@@ -111,6 +111,7 @@ Search words: Cascading Style Sheets
 * 🆓🎓 [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
 * 🆓🎓 [Simple introduction to CSS](http://learnlayout.com/)
 * 🆓🎮 [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
+* 🆓🎮 [CSS Flex Froggy](https://flexboxfroggy.com/) &mdash; A game for learning CSS flexbox.
 
 ### PHP
 
@@ -139,6 +140,8 @@ Search words: Cascading Style Sheets
 * 🆓🎥 [Corey Schafer on Youtube](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
 * 🆓📘 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
 * 🆓🎥 [Sentdex on Youtube](https://www.youtube.com/watch?v=eXBD2bB9-RA) &mdash; YouTube introduction to Python with a focus on "basics are boring; learn them quickly and build something."
+* 🆓🎓 [Computer Science 101](https://www.udacity.com/course/intro-to-computer-science--cs101) &mdash; A Udacity course designed for total beginners to be familiar with the basics of computer science. You also get to be familiar with Python along the way.
+* 🆓📘 [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) &mdash; The tutorial from the official Python docs.
 
 #### Culture
 
