@@ -11,6 +11,7 @@
   * [Go](#go)
   * [Ruby](#ruby)
   * [Rust](#rust)
+  * [SQL](#sql)
 * [Language Agnostic](#language-agnostic)
   * [Data Structures & Algorithms](#data-structures--algorithms)
   * [Git](#git)
@@ -192,6 +193,12 @@ Search words: Ruby on Rails
 * 🆓🌐 [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
 * 🆓🌐 [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
 * 🆓🎓 [Discovery](https://rust-embedded.github.io/discovery/) &mdash; An "introductory course" on microcontroller-based "embedded systems" using Rust.
+
+### SQL
+
+#### Learning
+
+* 🆓🌐 [SQLBolt](https://sqlbolt.com/) &mdash; An interactive SQL tutorial.
 
 ## Language Agnostic
 
