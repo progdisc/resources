@@ -138,6 +138,8 @@ Search words: Cascading Style Sheets
 * 🆓📘 [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) &mdash; A great guide to learning Python practices, setting up dev environments, packaging, and a lot of other information you're unlikely to learn from a guide or even unlikely to learn without hard experience
 * 🆓🎓 [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) ([OCW version](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/))&mdash; Introduction to CS and programming using Python.
 * 🆓🎓 [Georgia Tech CS 1301X MOOC](https://www.edx.org/professional-certificate/introduction-to-computing-in-python) &mdash; Introduction to computing in Python. Easier and longer than MIT's and focuses more on Python.
+* 💲📘 [Python Crash Course](https://nostarch.com/pythoncrashcourse/) by Eric
+  Matthes &mdash; A project-based introduction to Python. Covers the basics of Python, PyGame, data analysis with graphing, and Django.
 * 🆓🎥 [Corey Schafer on Youtube](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
 * 🆓📘 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
 * 🆓🎥 [Sentdex on Youtube](https://www.youtube.com/watch?v=eXBD2bB9-RA) &mdash; YouTube introduction to Python with a focus on "basics are boring; learn them quickly and build something."
