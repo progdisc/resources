@@ -134,16 +134,15 @@ Search words: Cascading Style Sheets
 * 🆓📘 [Automate the Boring Stuff](http://automatetheboringstuff.com) by Al
   Sweigart &mdash; An introduction to the language focused on showing how Python
   can help you with tasks around the office today.
-* 🆓📘 [Think Python V2](http://greenteapress.com/thinkpython2/html/index.html) &mdash; Covers the Python language and thinking like a programmer in detail. Good supplement to what Automate the Boring Stuff does not cover.
+* 🆓📘 [Think Python 2E](http://greenteapress.com/thinkpython2/html/index.html) &mdash; Covers the Python language and thinking like a programmer in detail. Good supplement to what Automate the Boring Stuff does not cover.
 * 🆓📘 [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) &mdash; A great guide to learning Python practices, setting up dev environments, packaging, and a lot of other information you're unlikely to learn from a guide or even unlikely to learn without hard experience
+* 🆓🎓 [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) ([OCW version](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/))&mdash; Introduction to CS and programming using Python.
+* 🆓🎓 [Georgia Tech CS 1301X MOOC](https://www.edx.org/professional-certificate/introduction-to-computing-in-python) &mdash; Introduction to computing in Python. Easier and longer than MIT's and focuses more on Python.
 * 💲📘 [Python Crash Course](https://nostarch.com/pythoncrashcourse/) by Eric
   Matthes &mdash; A project-based introduction to Python. Covers the basics of Python, PyGame, data analysis with graphing, and Django.
-* 🆓🎓 [Google Course](https://developers.google.com/edu/python/) &mdash; Course by Google. Do keep in mind, Google tends to use a different style guide to standard Python.
-* 🆓🎓 [MIT 6.00X MOOC](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) &mdash; Introduction to CS and programming with Python, MOOC by MIT
 * 🆓🎥 [Corey Schafer on Youtube](https://www.youtube.com/user/schafer5) &mdash; Useful Youtube channel with plenty of good quality tutorials
 * 🆓📘 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
 * 🆓🎥 [Sentdex on Youtube](https://www.youtube.com/watch?v=eXBD2bB9-RA) &mdash; YouTube introduction to Python with a focus on "basics are boring; learn them quickly and build something."
-* 🆓🎓 [Computer Science 101](https://www.udacity.com/course/intro-to-computer-science--cs101) &mdash; A Udacity course designed for total beginners to be familiar with the basics of computer science. You also get to be familiar with Python along the way.
 * 🆓📘 [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) &mdash; The tutorial from the official Python docs.
 
 #### Culture
