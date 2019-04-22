@@ -18,6 +18,7 @@
   * [Interviews](#interviews)
   * [Machine Learning](#machine-learning)
   * [Networking](#networking)
+  * [Mathematics](#mathematics)
   * [Open Source](#open-source)
   * [Podcasts](#podcasts)
   * [Testing](#testing)
