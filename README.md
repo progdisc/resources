@@ -244,10 +244,17 @@ Search words: ML
   * Frequently on sale for ~$10 USD each
 * 💲🎓 [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
 
+### Mathematics
+* 💲📘 [Strang's Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) &mdash; Gilbert Strang's excellent book on introductory linear algebra, excellent place to start on Machine learning
+* 🆓🎓 [MIT's 18.06 - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  &mdash; Strang's introductory linear algebra course taught in MIT, with all the lectures and resources available online through OpenCourseWare 
+* 🆓🎥 [Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page) &mdash; Revolutionary series by Grant Sanderson that focuses on building geometric intuition and understanding of concepts in linear algebra. Extremely useful skill to have. Best paired with a resource that goes over rigorous computation involved in linear algebra, like one of Strang's resources
+* 💲📘 [Stewart's Calculus series](https://www.stewartcalculus.com/) &mdash; Excellent series of books that go through the Calculus sequence that many CS/Engineering/Science students have to go through
+* 🆓🎥 [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) &mdash; Another fantastic series on building geometric intuition, this time on Calculus. Again, best paired with a rigorous academic resource
+
 ### Open Source
-* 🆓🌐[Opensource.com](https://opensource.com/resources/what-open-source) &mdash; What exactly is 'Open Source'? Get a gentle overview.
-* 🆓🌐[Opensource.guide](https://opensource.guide) &mdash; Answers common questions about open source software topics, like its legality and how to get paid.
-* 🆓🌐["Finding open source projects to contribute to" from GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/) &mdash; Ready to find an open source project to contribute to?
+* 🆓🌐 [Opensource.com](https://opensource.com/resources/what-open-source) &mdash; What exactly is 'Open Source'? Get a gentle overview.
+* 🆓🌐 [Opensource.guide](https://opensource.guide) &mdash; Answers common questions about open source software topics, like its legality and how to get paid.
+* 🆓🌐 ["Finding open source projects to contribute to" from GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/) &mdash; Ready to find an open source project to contribute to?
 
 ### Podcasts
 
