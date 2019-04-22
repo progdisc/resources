@@ -245,7 +245,7 @@ Search words: ML
 * 💲🎓 [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
 
 ### Open Source
-* 🆓🌐[Opensource.com](https://opensource.com/resources/what-open-source) &mdash; What exactly is 'Open Source'? Get an gentle overview.
+* 🆓🌐[Opensource.com](https://opensource.com/resources/what-open-source) &mdash; What exactly is 'Open Source'? Get a gentle overview.
 * 🆓🌐[Opensource.guide](https://opensource.guide) &mdash; Answers common questions about open source software topics, like its legality and how to get paid.
 * 🆓🌐["Finding open source projects to contribute to" from GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/) &mdash; Ready to find an open source project to contribute to?
 
