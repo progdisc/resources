@@ -227,15 +227,17 @@ Search words: DSA
 
 ### Machine Learning
 
-Search words: ML
+Search words: ML, Data Science
 
-* 🆓🎓 [Andrew Ng's Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
-* 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-* 🆓📘 [Deep Learning Book - !WARNING MATH HEAVY!](http://www.deeplearningbook.org/)
-* 🆓📘 [Neural Networks and Deep Learning - !WARNING MATH HEAVY!](http://neuralnetworksanddeeplearning.com/chap1.html)
-* 🆓🎥 [Sentdex's YouTube channel](https://www.youtube.com/sentdex)
-* 🆓🎥 [Siraj Raval's YouTube channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-* 💲🎓 [Udemy - Machine Learning A-Z](https://www.udemy.com/machinelearning/)
+Warning: Some of these resources are heavy in [Mathematics](#mathematics)
+* 🆓🎓 [Columbia University's Machine Learning course on edX](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0) &mdash; Excellent resource for those wanting a career in ML/Data Science. Extremely important and practical concepts covered
+* 🆓🎓 [Andrew Ng's Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning) &mdash; Very popular resource for those less confident with mathematics. Good for hackers, hobbyists and students. 
+* 🆓📘 [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) &mdash; Mathematically rigorous introduction to Machine Learning theory. Recommended for those with strong mathematics backgrounds.
+* 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) &mdash; Introduction to Machine Learning for people from non-technical backgrounds and backgrounds in non-quantitative subjects.
+* 🆓📘 [Deep Learning Book](http://www.deeplearningbook.org/) &mdash; Ian Goodfellow's iconic Deep Learning book
+* 🆓📘 [3blue1brown's Neural Networks](https://www.3blue1brown.com/videos/2017/10/9/neural-network) &mdash; Excellent series that visually and intuitively explains the concept behind Neural Networks through excellent visuals and animations
+* 🆓🎥 [Stanford's CS231n - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) &mdash; Stanford's Deep Computer Vision course that goes over the advent of CNNs in computer vision, their history and their use in state of the art methods in deep vision. Gets you almost up-to-date on Computer Vision reserach literature
+* 🆓🎥 [Stanford's CS224n - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) &mdash; Stanford's NLP course going over modern deep learning based methods and architectures
 
 ### Networking
 
