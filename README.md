@@ -21,6 +21,7 @@
   * [Mathematics](#mathematics)
   * [Open Source](#open-source)
   * [Podcasts](#podcasts)
+  * [Software Architecture](#software-architecture)
   * [Testing](#testing)
 * [License](#license)
 
@@ -267,6 +268,10 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 * 🆓🎙 [*Talk Python to Me* by Michael Kennedy](https://talkpython.fm) &mdash; Interview podcast that brings on guests working on niche Python projects you should be aware of.
 * 🆓🎙 [*Simple Programmer* by John Sonmez](https://www.youtube.com/playlist?list=PLjwWT1Xy3c4U4xrSdGiN9fh04NjHoNwTq) &mdash; Straight talk about productivity and career development for software developers.
 * 🆓🎙 [*whiletruefm*](http://whiletrue.fm) &mdash; Fortnightly technology discussion podcast formed by ProgDisc users.
+
+### Software Architecture
+
+* 🆓📘 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) &mdash; Authors of dozen open source applications explain how their software is structured, and why.
 
 ### Testing
 A good test (by [samwho](http://samwho.co.uk)):
