@@ -19,6 +19,7 @@
   * [Machine Learning](#machine-learning)
   * [Networking](#networking)
   * [Mathematics](#mathematics)
+  * [Mobile Development](#mobile-development)
   * [Open Source](#open-source)
   * [Podcasts](#podcasts)
   * [Software Architecture](#software-architecture)
@@ -254,6 +255,10 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 * 🆓🎥 [Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page) &mdash; Revolutionary series by Grant Sanderson that focuses on building geometric intuition and understanding of concepts in linear algebra. Extremely useful skill to have. Best paired with a resource that goes over rigorous computation involved in linear algebra, like one of Strang's resources
 * 💲📘 [Stewart's Calculus series](https://www.stewartcalculus.com/) &mdash; Excellent series of books that go through the Calculus sequence that many CS/Engineering/Science students have to go through
 * 🆓🎥 [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) &mdash; Another fantastic series on building geometric intuition, this time on Calculus. Again, best paired with a rigorous academic resource
+
+### Mobile Development
+* 🆓🎥 [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834) &mdash; A video series on how to develop Android applications by Google (check out the course description for full list of courses)
+* 🆓📘 [Android Developer Guides](https://developer.android.com/guide) &mdash; The official documentation on how Android platform works
 
 ### Open Source
 * 🆓🌐 [Opensource.com](https://opensource.com/resources/what-open-source) &mdash; What exactly is 'Open Source'? Get a gentle overview.
