@@ -19,6 +19,7 @@
   * [Machine Learning](#machine-learning)
   * [Networking](#networking)
   * [Mathematics](#mathematics)
+  * [Mobile Development](#mobile-development)
   * [Open Source](#open-source)
   * [Podcasts](#podcasts)
   * [Software Architecture](#software-architecture)
