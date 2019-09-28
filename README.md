@@ -67,6 +67,10 @@ Search words: cpp
 * 🆓🌐 [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
 * 🆓🎓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; A Udacity course designed for students who are familiar with a programming language and wish to learn C++.
 * 🆓📘 [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
+* 💲🎥[PluralSight C++ Path](https://app.pluralsight.com/paths/skills/c-plus-plus) &mdash; High-quality beginner and intermediate videos from Kate Gregory and others. 10-day free trial, with some ways to get an extended trial. Some companies offer free PluralSight accounts to employees as a benefit.
+* 🆓🎥[CppCon conference talks](https://www.youtube.com/user/CppCon/videos?view=0&sort=p) &mdash; The best video presentations the C++ community has to offer.  Most content is not beginner material, but may still be of interest to beginners.
+* 🆓🎙[CppCast](https://cppcast.com/) &mdash; Weekly podcast with C++ expert guests, covering C++ community news and varied topics.
+* 🆓🎙🎥[cpp.chat](https://www.cpp.chat/) &mdash; Live semi-regular podcast with C++ expert guests, less structured than CppCast.
 
 ### Java
 
