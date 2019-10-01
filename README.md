@@ -58,6 +58,7 @@ Search words: c-sharp, csharp
 * 🆓🎓 [Video Series: Getting Started with Visual Studio & C# .NET with Nerdgasm](https://www.youtube.com/watch?v=Yj0G5UdBJZw&list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n)
 * 💲📘 [C# in Depth, Fourth Edition by Jon Skeet](https://www.manning.com/books/c-sharp-in-depth-fourth-edition) (http://meta.stackexchange.com/q/9134)
 * 💲🎓 [TeamTreehouse: Fundamentals, ASP.NET MVC, LINQ, Entity Framework, etc.](https://teamtreehouse.com/library/topic:csharp)
+* 🆓🎓 [Video Series: Windows 10 development for absolute beginners](https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners)
 
 ### C\++
 
