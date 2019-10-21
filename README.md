@@ -271,11 +271,13 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 
 ### Podcasts
 
+* 🆓🎙 [*#causeascene*](https://hashtagcauseascene.com/podcast/) &mdash; A show focused on the strategic anti-racist disruption of the status quo in technical orgs, communities & events.
+* 🆓🎙 [*Ladybug Podcast*](https://ladybug.dev/) &mdash; An all lady-hosted tech podcast for all developers.
 * 🆓🎙 [*Programming Throwdown*](http://www.programmingthrowdown.com/) &mdash; Every show covers a new programming language and assorted tech topics.
 * 🆓🎙 [*Coding Blocks*](https://www.codingblocks.net/) &mdash; Pragmatic talk about software design best practices: design patterns, software architecture, performance, object oriented programming, and more.
 * 🆓🎙 [*Coder Radio* by Jupiter Broadcasting](http://www.jupiterbroadcasting.com/show/coderradio/) &mdash; Weekly discussion about software development and related technologies.
 * 🆓🎙 [*Talk Python to Me* by Michael Kennedy](https://talkpython.fm) &mdash; Interview podcast that brings on guests working on niche Python projects you should be aware of.
-* 🆓🎙 [*whiletruefm*](http://whiletrue.fm) &mdash; Fortnightly technology discussion podcast formed by ProgDisc users.
+* 🆓🎙 [*whiletruefm*](http://whiletrue.fm) &mdash; Technology discussion podcast formed by ProgDisc users. (defunct)
 
 ### Software Architecture
 
