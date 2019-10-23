@@ -122,6 +122,10 @@ Search words: Cascading Style Sheets
 * 🆓🎮 [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
 * 🆓🎮 [CSS Flex Froggy](https://flexboxfroggy.com/) &mdash; A game for learning CSS flexbox.
 
+#### Reference
+
+* 🆓📘 [CSS Reference](http://cssreference.io) &mdash; A visual representation of all native CSS3 rules.
+
 ### PHP
 
 #### Learning
@@ -238,7 +242,7 @@ Search words: ML, Data Science
 
 Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 * 🆓🎓 [Columbia University's Machine Learning course on edX](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0) &mdash; Excellent resource for those wanting a career in ML/Data Science. Extremely important and practical concepts covered
-* 🆓🎓 [Andrew Ng's Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning) &mdash; Very popular resource for those less confident with mathematics. Good for hackers, hobbyists and students. 
+* 🆓🎓 [Andrew Ng's Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning) &mdash; Very popular resource for those less confident with mathematics. Good for hackers, hobbyists and students.
 * 🆓📘 [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) &mdash; Mathematically rigorous introduction to Machine Learning theory. Recommended for those with strong mathematics backgrounds.
 * 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) &mdash; Introduction to Machine Learning for people from non-technical backgrounds and backgrounds in non-quantitative subjects.
 * 🆓📘 [Deep Learning Book](http://www.deeplearningbook.org/) &mdash; Ian Goodfellow's iconic Deep Learning book
@@ -255,7 +259,7 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 
 ### Mathematics
 * 💲📘 [Strang's Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) &mdash; Gilbert Strang's excellent book on introductory linear algebra, excellent place to start on Machine learning
-* 🆓🎓 [MIT's 18.06 - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  &mdash; Strang's introductory linear algebra course taught in MIT, with all the lectures and resources available online through OpenCourseWare 
+* 🆓🎓 [MIT's 18.06 - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  &mdash; Strang's introductory linear algebra course taught in MIT, with all the lectures and resources available online through OpenCourseWare
 * 🆓🎥 [Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page) &mdash; Revolutionary series by Grant Sanderson that focuses on building geometric intuition and understanding of concepts in linear algebra. Extremely useful skill to have. Best paired with a resource that goes over rigorous computation involved in linear algebra, like one of Strang's resources
 * 💲📘 [Stewart's Calculus series](https://www.stewartcalculus.com/) &mdash; Excellent series of books that go through the Calculus sequence that many CS/Engineering/Science students have to go through
 * 🆓🎥 [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) &mdash; Another fantastic series on building geometric intuition, this time on Calculus. Again, best paired with a rigorous academic resource
