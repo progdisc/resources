@@ -220,7 +220,7 @@ Search words: Ruby on Rails
 
 Search words: DSA
 
-* 🆓📘 [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html) By Brad Miller and David Ranum
+* 🆓📘 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) By Brad Miller and David Ranum
 * 🆓🎓 [Sedgewick's Coursera Part 1](https://www.coursera.org/learn/algorithms-part1)
 * 🆓🎓 [Sedgewick's Coursera Part 2](https://www.coursera.org/learn/algorithms-part2)
 * 💲📘 [Sedgewick's Algorithms in Java](http://algs4.cs.princeton.edu/home/)
