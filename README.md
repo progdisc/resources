@@ -65,6 +65,7 @@ Search words: c-sharp, csharp
 Search words: cpp
 
 * 🆓📘 [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
+* 🆓📘 [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) &mdash; Best practices and recommendations for how to write C++, from the creators of the language.
 * 🆓🌐 [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
 * 🆓🎓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; A Udacity course designed for students who are familiar with a programming language and wish to learn C++.
 * 🆓📘 [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
