@@ -8,6 +8,7 @@
   * [Javascript](#javascript)
   * [PHP](#php)
   * [Python](#python)
+  * [Haskell](#Haskell)
   * [Go](#go)
   * [Ruby](#ruby)
   * [Rust](#rust)
@@ -168,6 +169,15 @@ Search words: Cascading Style Sheets
 #### Frameworks
  * 🆓🎓 [Official Django Tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/) - Official tutorial for Django, well regarded.
  * 🆓🎓 [DjangoGirls Blog Tutorial](https://tutorial.djangogirls.org/en/) - Simple and short tutorial about how to make a blog with Django.
+
+### Haskell
+
+#### Learning
+
+* 🆓📘 [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/) - Official Tutorial offered by Haskell.org
+* 🆓📘 [Learn You a Haskell](http://learnyouahaskell.com/) - Easy to follow and recommended if you already know how to use an OOP language
+* 💲📘 [Haskell: The Craft of Functional Programming](http://www.haskellcraft.com/craft3e/Home.html) - Recommended if you want to learn Haskell as your first programming language
+* 🆓📘 [Hoogle](https://hoogle.haskell.org/) - A search engine for Haskell
 
 ### Go
 
