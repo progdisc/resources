@@ -10,9 +10,11 @@
   * [Python](#python)
   * [Haskell](#Haskell)
   * [Go](#go)
+  * [R](#r)
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [SQL](#sql)
+ 
 * [Language Agnostic](#language-agnostic)
   * [Data Structures & Algorithms](#data-structures--algorithms)
   * [Git](#git)
@@ -22,6 +24,7 @@
   * [Mathematics](#mathematics)
   * [Mobile Development](#mobile-development)
   * [Open Source](#open-source)
+  * [Robotics](#robotics)
   * [Podcasts](#podcasts)
   * [Software Architecture](#software-architecture)
   * [Testing](#testing)
@@ -159,6 +162,11 @@ Search words: Cascading Style Sheets
 * 🆓📘 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
 * 🆓🎥 [Sentdex on Youtube](https://www.youtube.com/watch?v=eXBD2bB9-RA) &mdash; YouTube introduction to Python with a focus on "basics are boring; learn them quickly and build something."
 * 🆓📘 [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) &mdash; The tutorial from the official Python docs.
+* 🆓📘 [Data Structures and Algorithms with Python](http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9)
+* 🆓📘 [The Python Workbook](http://link.springer.com/openurl?genre=book&isbn=978-3-319-14240-1)
+* 🆓📘 [Python For ArcGIS](http://link.springer.com/openurl?genre=book&isbn=978-3-319-18398-5)
+* 🆓📘 [A Beginners Guide to Python 3 Programming](http://link.springer.com/openurl?genre=book&isbn=978-3-030-20290-3)
+* 🆓📘 [Advanced Guide to Python 3 Programming](http://link.springer.com/openurl?genre=book&isbn=978-3-030-25943-3)
 
 #### Culture
 
@@ -188,6 +196,12 @@ Search words: Cascading Style Sheets
 * 🆓🎥 [Introductory Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
 * 🆓📘 [Effective Go](https://golang.org/doc/effective_go.html)
 * 🆓📘 [Godoc](https://godoc.org/)
+
+### R
+
+#### Learning
+
+* 🆓📘 [A Beginner’s Guide to R](http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0)
 
 ### Ruby
 
@@ -236,6 +250,11 @@ Search words: DSA
 * 🆓🎓 [Sedgewick's Coursera Part 2](https://www.coursera.org/learn/algorithms-part2)
 * 💲📘 [Sedgewick's Algorithms in Java](http://algs4.cs.princeton.edu/home/)
 * 💲📘 [CLRS/Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
+* 🆓📘 [Introduction to Evolutionary Computing](http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8) Suitable for undergraduate and graduate courses in artificial intelligence and computational intelligence, and for self-study by practitioners and researchers engaged with all aspects of bioinspired design and optimization.
+* 🆓📘 [Data Analysis](http://link.springer.com/openurl?genre=book&isbn=978-3-319-03762-2)
+* 🆓📘 [Linear and Nonlinear Programming](http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3)
+* 🆓📘 [Computer Vision: Algorithms and Applications](http://link.springer.com/openurl?genre=book&isbn=978-1-84882-935-0)
+* 🆓📘 [Object-Oriented Analysis, Design and Implementation](http://link.springer.com/openurl?genre=book&isbn=978-3-319-24280-4)
 
 ### Git
 * 🆓🎮 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow
@@ -261,6 +280,11 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 * 🆓📘 [3blue1brown's Neural Networks](https://www.3blue1brown.com/videos/2017/10/9/neural-network) &mdash; Excellent series that visually and intuitively explains the concept behind Neural Networks through excellent visuals and animations
 * 🆓🎥 [Stanford's CS231n - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) &mdash; Stanford's Deep Computer Vision course that goes over the advent of CNNs in computer vision, their history and their use in state of the art methods in deep vision. Gets you almost up-to-date on Computer Vision reserach literature
 * 🆓🎥 [Stanford's CS224n - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) &mdash; Stanford's NLP course going over modern deep learning based methods and architectures
+* 🆓📘 [An Introduction to Machine Learning](http://link.springer.com/openurl?genre=book&isbn=978-3-319-63913-0)
+* 🆓📘 [Machine Learning in Medicine — a Complete Overview](http://link.springer.com/openurl?genre=book&isbn=978-3-319-15195-3)
+* 🆓📘 [Introduction to Artificial Intelligence](http://link.springer.com/openurl?genre=book&isbn=978-3-319-58487-4)
+* 🆓📘 [Introduction to Deep Learning](http://link.springer.com/openurl?genre=book&isbn=978-3-319-73004-2)
+* 🆓📘 [Neural Networks and Deep Learning](http://link.springer.com/openurl?genre=book&isbn=978-3-319-94463-0)
 
 ### Networking
 
@@ -275,6 +299,24 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 * 🆓🎥 [Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page) &mdash; Revolutionary series by Grant Sanderson that focuses on building geometric intuition and understanding of concepts in linear algebra. Extremely useful skill to have. Best paired with a resource that goes over rigorous computation involved in linear algebra, like one of Strang's resources
 * 💲📘 [Stewart's Calculus series](https://www.stewartcalculus.com/) &mdash; Excellent series of books that go through the Calculus sequence that many CS/Engineering/Science students have to go through
 * 🆓🎥 [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) &mdash; Another fantastic series on building geometric intuition, this time on Calculus. Again, best paired with a rigorous academic resource
+* 🆓📘 [The Elements of Statistical Learning](http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7)
+* 🆓📘 [Introduction to Partial Differential Equations](http://link.springer.com/openurl?genre=book&isbn=978-3-319-48936-0)
+* 🆓📘 [Methods of Mathematical Modelling](http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9)
+* 🆓📘 [Introduction to Statistics and Data Analysis](http://link.springer.com/openurl?genre=book&isbn=978-3-319-46162-5)
+* 🆓📘 [Computational Geometry](http://link.springer.com/openurl?genre=book&isbn=978-3-540-77974-2)
+* 🆓📘 [Statistical Analysis and Data Display](http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2122-5)
+* 🆓📘 [Stochastic Processes and Calculus](http://link.springer.com/openurl?genre=book&isbn=978-3-319-23428-1)
+* 🆓📘 [Statistical Analysis of Clinical Data on a Pocket Calculator](http://link.springer.com/openurl?genre=book&isbn=978-94-007-1211-9)
+* 🆓📘 [Guide to Discrete Mathematics](http://link.springer.com/openurl?genre=book&isbn=978-3-319-44561-8)
+* 🆓📘 [Multivariate Calculus and Geometry](http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6419-7)
+* 🆓📘 [Modelling Computing Systems](http://link.springer.com/openurl?genre=book&isbn=978-1-84800-322-4)
+* 🆓📘 [Linear Algebra Done Right](http://link.springer.com/openurl?genre=book&isbn=978-3-319-11080-6)
+* 🆓📘 [Linear Algebra](http://link.springer.com/openurl?genre=book&isbn=978-3-319-24346-7)
+* 🆓📘 [Algebra](http://link.springer.com/openurl?genre=book&isbn=978-1-4613-0041-0)
+* 🆓📘 [An Introduction to Statistical Learning](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7138-7)
+* 🆓📘 [Statistical Learning from a Regression Perspective](http://link.springer.com/openurl?genre=book&isbn=978-3-319-44048-4)
+* 🆓📘 [Applied Partial Differential Equations](http://link.springer.com/openurl?genre=book&isbn=978-3-319-12493-3)
+
 
 ### Mobile Development
 * 🆓🎥 [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834) &mdash; A video series on how to develop Android applications by Google (check out the course description for full list of courses)
@@ -284,6 +326,10 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 * 🆓🌐 [Opensource.com](https://opensource.com/resources/what-open-source) &mdash; What exactly is 'Open Source'? Get a gentle overview.
 * 🆓🌐 [Opensource.guide](https://opensource.guide) &mdash; Answers common questions about open source software topics, like its legality and how to get paid.
 * 🆓🌐 ["Finding open source projects to contribute to" from GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/) &mdash; Ready to find an open source project to contribute to?
+
+### Robotics
+* 🆓📘 [Robotics](http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1)
+* 🆓📘 [Robotics, Vision and Control](http://link.springer.com/openurl?genre=book&isbn=978-3-642-20144-8)
 
 ### Podcasts
 
