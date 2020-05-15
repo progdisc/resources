@@ -50,6 +50,10 @@
 * 🆓📘 [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Knowing how to use a debugger like `gdb` is essential
 * 🆓📘 [C Debugging cheat sheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out
 
+#### Networking
+
+* 🆓📘 [Beej's Guide To Network Programming](https://beej.us/guide/bgnet/) &mdash; A classic reference for POSIX network programming in C/C++.
+
 ### C\#
 
 Search words: c-sharp, csharp
