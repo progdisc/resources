@@ -15,7 +15,7 @@ below:
 
 Those are `&mdash;` 
 
-Note that every description must end in some sort of punctiation. 
+Note that every description must end in some sort of punctuation. 
 
 Learning resources include documentation and tutorials for direct learning.
 
