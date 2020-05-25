@@ -230,6 +230,7 @@ Search words: Ruby on Rails
 #### Learning
 
 * 🆓🌐 [SQLBolt](https://sqlbolt.com/) &mdash; An interactive SQL tutorial.
+* 🆓🌐 [SQL Cheat Sheet](https://websitesetup.org/sql-cheat-sheet/) &mdash; A SQL cheatsheet *(MySQL oriented)*
 
 ## Language Agnostic
 
