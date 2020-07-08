@@ -91,7 +91,7 @@ Search words: cpp
 
 #### Learning
 
-* 🆓🎓 [Object Oriented Programming](http://mooc.fi/courses/2013/programming-part-1/) &mdash; MOOC taught with Java, part I & II (University of Helsinki).
+* 🆓🎓 [Java Programming](https://java-programming.mooc.fi/) &mdash; MOOC taught with Java, part I & II (University of Helsinki).
 
 ### Javascript
 
