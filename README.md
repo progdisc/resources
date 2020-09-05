@@ -165,6 +165,7 @@ Search words: Cascading Style Sheets
 * 🆓📘 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
 * 🆓🎥 [Sentdex on Youtube](https://www.youtube.com/watch?v=eXBD2bB9-RA) &mdash; YouTube introduction to Python with a focus on "basics are boring; learn them quickly and build something."
 * 🆓📘 [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) &mdash; The tutorial from the official Python docs.
+* 🆓📘 [A Byte of Python](https://python.swaroopch.com/) &mdash; Detailed overview of Python syntax and OOP basics with solid examples and explanations. 
 
 #### Culture
 
