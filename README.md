@@ -15,6 +15,7 @@
   * [SQL](#sql)
 * [Language Agnostic](#language-agnostic)
   * [Data Structures & Algorithms](#data-structures--algorithms)
+  * [Design](#design)
   * [Git](#git)
   * [Interviews](#interviews)
   * [Machine Learning](#machine-learning)
@@ -244,6 +245,13 @@ Search words: DSA
 * 🆓🎓 [Sedgewick's Coursera Part 2](https://www.coursera.org/learn/algorithms-part2)
 * 💲📘 [Sedgewick's Algorithms in Java](http://algs4.cs.princeton.edu/home/)
 * 💲📘 [CLRS/Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
+
+### Design
+
+Search words: UI, UX, design
+
+* 🆓🎓 [CalArts UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) &mdash; 4-course series on UI/UX design and wireframing with a web-app approach.
+* 🆓🎓 [Springboard UX Design Curriculum](https://www.springboard.com/resources/learning-paths/user-experience-design/) &mdash; Aggregator of links to UI/UX tutorials and resources.
 
 ### Git
 * 🆓🎮 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow.
