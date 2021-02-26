@@ -250,8 +250,8 @@ Search words: DSA
 
 Search words: UI, UX, design
 
-* 🆓🎓 [CalArts UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) By Michael Worthington and Roman Jaster, Coursera
-* 🆓🎓 [Springboard UX Design Curriculum](https://www.springboard.com/resources/learning-paths/user-experience-design/)
+* 🆓🎓 [CalArts UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) &mdash; 4-course series on UI/UX design and wireframing with a web-app approach.
+* 🆓🎓 [Springboard UX Design Curriculum](https://www.springboard.com/resources/learning-paths/user-experience-design/) &mdash; Aggregator of links to UI/UX tutorials and resources.
 
 ### Git
 * 🆓🎮 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow.
