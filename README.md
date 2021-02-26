@@ -245,6 +245,13 @@ Search words: DSA
 * 💲📘 [Sedgewick's Algorithms in Java](http://algs4.cs.princeton.edu/home/)
 * 💲📘 [CLRS/Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
 
+### Design
+
+Search words: UI, UX, design
+
+* 🆓📘 [CalArts UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) By Michael Worthington and Roman Jaster, Coursera
+* 🆓🎓 [Springboard UX Design Curriculum](https://www.springboard.com/resources/learning-paths/user-experience-design/)
+
 ### Git
 * 🆓🎮 [Learn Git Branching](https://learngitbranching.js.org/) &mdash; Interactive introduction to Git branching and workflow.
 * 🆓📘 [Pro Git](https://git-scm.com/book/en/v2) &mdash; A start-to-finish book on how to use and understand Git.
