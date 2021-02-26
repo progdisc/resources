@@ -15,6 +15,7 @@
   * [SQL](#sql)
 * [Language Agnostic](#language-agnostic)
   * [Data Structures & Algorithms](#data-structures--algorithms)
+  * [Design](#design)
   * [Git](#git)
   * [Interviews](#interviews)
   * [Machine Learning](#machine-learning)
@@ -249,7 +250,7 @@ Search words: DSA
 
 Search words: UI, UX, design
 
-* 🆓📘 [CalArts UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) By Michael Worthington and Roman Jaster, Coursera
+* 🆓🎓 [CalArts UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) By Michael Worthington and Roman Jaster, Coursera
 * 🆓🎓 [Springboard UX Design Curriculum](https://www.springboard.com/resources/learning-paths/user-experience-design/)
 
 ### Git
