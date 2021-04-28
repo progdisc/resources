@@ -166,7 +166,7 @@ Search words: Cascading Style Sheets
 * 🆓📘 [Python Names and Values](https://nedbatchelder.com/text/names1.html) Article & talk on Youtube about names, values, assignment, and mutability.
 * 🆓🎥 [Sentdex on Youtube](https://www.youtube.com/watch?v=eXBD2bB9-RA) &mdash; YouTube introduction to Python with a focus on "basics are boring; learn them quickly and build something."
 * 🆓📘 [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) &mdash; The tutorial from the official Python docs.
-* 🆓📘 [A Byte of Python](https://python.swaroopch.com/) &mdash; Detailed overview of Python syntax and OOP basics with solid examples and explanations. 
+* 🆓📘 [A Byte of Python](https://python.swaroopch.com/) &mdash; Detailed overview of Python syntax and OOP basics with solid examples and explanations.
 
 #### Culture
 
@@ -181,11 +181,18 @@ Search words: Cascading Style Sheets
 ### Haskell
 
 #### Learning
+* 🆓🌐 [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - A useful collection of knowledge to help new haskell users orient themselves in the ecosystem.
+* 🆓🌐 [The Haskell Wiki](https://wiki.haskell.org/Haskell) - The official haskell wiki.
+* 🆓🌐 [Hoogle](https://hoogle.haskell.org/) - A search engine for Haskell.
+* 💲🎓 [TypeClasses](https://typeclasses.com/) - A subscription service with courses to help you learn haskell.
+* 💲📘 [Haskell Programming from First Principles](https://haskellbook.com/) - A book to learn haskell programming starting with the foundational mathematical principles of functional programming.
+* 💲📘 [Programming in Haskell](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/programming-haskell-2nd-edition) - A short text book to teach haskell programming suitable for undergraduates or developers familiar with procedural or OO languages.
 
-* 🆓📘 [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/) - Official Tutorial offered by Haskell.org.
-* 🆓📘 [Learn You a Haskell](http://learnyouahaskell.com/) - Easy to follow and recommended if you already know how to use an OOP language.
-* 💲📘 [Haskell: The Craft of Functional Programming](http://www.haskellcraft.com/craft3e/Home.html) - Recommended if you want to learn Haskell as your first programming language.
-* 🆓📘 [Hoogle](https://hoogle.haskell.org/) - A search engine for Haskell.
+#### Culture
+* 🆓🌐 [The Haskell Community](https://www.haskell.org/community/) The haskell community page maintained by haskell.org.
+* 🆓🌐 [Haskell Discourse](https://discourse.haskell.org/) Discussion board for the haskell community.
+* 🆓🌐 [The Haskell Subreddit](https://www.reddit.com/r/haskell/) A popular subreddit about haskell with many learning and discussion resources.
+* 🆓📫 [Haskell Weekly News](https://haskellweekly.news/) A weekly mailing list and podcast with information about haskell and the haskell community.
 
 ### Go
 
