@@ -75,12 +75,29 @@ Search words: cpp
 * 🆓📘 [Language Reference](http://en.cppreference.com/w/) &mdash; A reference for the C/C++ programming languages.
 * 🆓📘 [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) &mdash; Best practices and recommendations for how to write C++, from the creators of the language.
 * 🆓🌐 [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
-* 🆓🎓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; A Udacity course designed for students who are familiar with a programming language and wish to learn C++.
 * 🆓📘 [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
-* 💲🎥[PluralSight C++ Path](https://app.pluralsight.com/paths/skills/c-plus-plus) &mdash; High-quality beginner and intermediate videos from Kate Gregory and others. 10-day free trial, with some ways to get an extended trial. Some companies offer free PluralSight accounts to employees as a benefit.
-* 🆓🎥[CppCon conference talks](https://www.youtube.com/user/CppCon/videos?view=0&sort=p) &mdash; The best video presentations the C++ community has to offer.  Most content is not beginner material, but may still be of interest to beginners.
-* 🆓🎙[CppCast](https://cppcast.com/) &mdash; Weekly podcast with C++ expert guests, covering C++ community news and varied topics.
-* 🆓🎙🎥[cpp.chat](https://www.cpp.chat/) &mdash; Live semi-regular podcast with C++ expert guests, less structured than CppCast.
+* 🆓🌐 [#include <C++> Discord](https://www.includecpp.org/discord/) &mdash - `#include <C++>` is a global, inclusive, and diverse community for developers interested in C++.
+
+#### Learning
+
+* 🆓[LearnCpp.com](https://www.learncpp.com/) &mdash; Free tutorials covering all of C++, for learners of all experience levels.
+* 💲🎥 [PluralSight C++ Path](https://app.pluralsight.com/paths/skills/c-plus-plus) &mdash; High-quality beginner and intermediate videos from Kate Gregory and others. 10-day free trial, with some ways to get an extended trial. Some companies offer free PluralSight accounts to employees as a benefit.
+* 🆓🎓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; A Udacity course designed for students who are familiar with a programming language and wish to learn C++.
+
+#### Videos
+
+* 🆓🎥 [The Cherno's C++ videos](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) &mdash; Highly popular YouTube videos teaching C++.
+* 🆓🎥 [OneLoneCoder](https://www.youtube.com/c/javidx9) &mdash; Videos teaching C++ using a simple game engine that's easy for beginners to use.
+* 🆓🎥 [C++ Weekly with Jason Turner](https://www.youtube.com/channel/UCxHAlbZQNFU2LgEtiqd2Maw) &mdash; Weekly video series teaching varied modern C++ topics.
+* 🆓🎥 [CppCon conference talks](https://www.youtube.com/user/CppCon/videos?view=0&sort=p) &mdash; The best video presentations the C++ community has to offer.  Most content is not beginner material, but may still be of interest to beginners.
+
+#### Podcasts
+
+* 🆓🎙 [CppCast](https://cppcast.com/) &mdash; Weekly podcast with C++ expert guests, covering C++ community news and varied topics.
+* 🆓🎙🎥 [cpp.chat](https://www.cpp.chat/) &mdash; Live semi-regular podcast with C++ expert guests, less structured than CppCast.
+* 🆓🎙 [No Diagnostic Required](https://nodiagnosticrequired.tv/) &mdash; Monthly C++ news podcast by Phil Nash and Anastasia Kazakova from JetBrains.
+* 🆓🎙 [Two's Complement](https://www.twoscomplement.org/) &mdash; Programming podcast by Matt Godbolt and Ben Rady.
+* 🆓🎙 [Algorithms + Data Structures = Programs](https://adspthepodcast.com/about/) &mdash; An informal podcast by Bryce Lelbach and Conor Hoekstra about algorithms, programming, and whatever the hosts feel like.
 
 ### Java
 
