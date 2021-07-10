@@ -76,7 +76,7 @@ Search words: cpp
 * 🆓📘 [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) &mdash; Best practices and recommendations for how to write C++, from the creators of the language.
 * 🆓🌐 [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282) &mdash; A list of recommended books for learning C++, ordered by skill level.
 * 🆓📘 [C++ FAQ](https://reddit.com/r/learnprogramming/wiki/faq_cpp) &mdash; The FAQ about C++ on /r/learnprogramming.
-* 🆓🌐 [#include <C++> Discord](https://www.includecpp.org/discord/) &mdash - `#include <C++>` is a global, inclusive, and diverse community for developers interested in C++.
+* 🆓🌐 [#include <C++> Discord](https://www.includecpp.org/discord/) &mdash; `#include <C++>` is a global, inclusive, and diverse community for developers interested in C++.
 
 #### Learning
 
