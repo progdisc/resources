@@ -8,7 +8,7 @@
   * [Javascript](#javascript)
   * [PHP](#php)
   * [Python](#python)
-  * [Haskell](#Haskell)
+  * [Haskell](#haskell)
   * [Go](#go)
   * [Ruby](#ruby)
   * [Rust](#rust)
