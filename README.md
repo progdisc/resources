@@ -146,7 +146,7 @@ Search words: Cascading Style Sheets
 * 🆓📘 [A Free Visual Guide to CSS](http://cssreference.io/)
 * 🆓🎓 [Free Course: Learn the basics of HTML and CSS](https://codecademy.com/learn/web)
 * 🆓🎓 [Simple introduction to CSS](http://learnlayout.com/)
-* 🆓🎓 [Learn Css from web.dev](https://web.dev/learn/css/) &mdash; From Google developers.
+* 🆓🎓 [Learn CSS from web.dev](https://web.dev/learn/css/) &mdash; From Google Developers.
 * 🆓🎮 [CSS Grid Garden](http://cssgridgarden.com/) &mdash; A game for learning CSS grid layout.
 * 🆓🎮 [CSS Flex Froggy](https://flexboxfroggy.com/) &mdash; A game for learning CSS flexbox.
 
