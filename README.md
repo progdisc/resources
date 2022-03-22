@@ -296,6 +296,7 @@ Search words: ML, Data Science
 Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 * 🆓🎓 [Columbia University's Machine Learning course on edX](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0) &mdash; Excellent resource for those wanting a career in ML/Data Science. Extremely important and practical concepts covered.
 * 🆓🎓 [Andrew Ng's Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning) &mdash; Very popular resource for those less confident with mathematics. Good for hackers, hobbyists and students.
+* 🆓🎓 [Foundations of Machine Learning by Bloomberg](https://bloomberg.github.io/foml/#home)
 * 🆓📘 [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) &mdash; Mathematically rigorous introduction to Machine Learning theory. Recommended for those with strong mathematics backgrounds.
 * 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) &mdash; Introduction to Machine Learning for people from non-technical backgrounds and backgrounds in non-quantitative subjects.
 * 🆓📘 [Deep Learning Book](http://www.deeplearningbook.org/) &mdash; Ian Goodfellow's iconic Deep Learning book.
