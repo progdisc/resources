@@ -83,6 +83,7 @@ Search words: cpp
 * 🆓[LearnCpp.com](https://www.learncpp.com/) &mdash; Free tutorials covering all of C++, for learners of all experience levels.
 * 💲🎥 [PluralSight C++ Path](https://app.pluralsight.com/paths/skills/c-plus-plus) &mdash; High-quality beginner and intermediate videos from Kate Gregory and others. 10-day free trial, with some ways to get an extended trial. Some companies offer free PluralSight accounts to employees as a benefit.
 * 🆓🎓 [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) &mdash; A Udacity course designed for students who are familiar with a programming language and wish to learn C++.
+* [Learn C++](https://www.scaler.com/topics/cpp/) &mdash; Scaler Topics Free Tutorials covering all concepts in C++, from the fundamentals to the advanced concepts with well-defined structure to provide a clear learning path to the readers.
 
 #### Videos
 
