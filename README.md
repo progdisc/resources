@@ -110,6 +110,7 @@ Search words: cpp
 #### Learning
 
 * 🆓🎓 [Java Programming](https://java-programming.mooc.fi/) &mdash; MOOC taught with Java, part I & II (University of Helsinki).
+* 🆓🎓 [Java Tutorial](https://www.scaler.com/topics/java) learn Java programming in detail. 
 
 ### Javascript
 
