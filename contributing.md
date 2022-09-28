@@ -8,10 +8,10 @@ below:
 ## Subject
 *Description*
 ### Learning
-* Thing 1 &mdash; Short description of Thing 1.
-* Thing 2 &mdash; Short description of Thing 2.
+* [Price emoji]\[Medium emoji] Thing 1 &mdash; Short description of Thing 1.
+* [Price emoji]\[Medium emoji] Thing 2 &mdash; Short description of Thing 2.
 ### Culture
-* Thing 3 &mdash; Short description of Thing 3.
+* [Price emoji]\[Medium emoji] Thing 3 &mdash; Short description of Thing 3.
 
 Those are `&mdash;` 
 
@@ -38,14 +38,16 @@ This project includes a setup for spellchecking with npm packages. To use it,
 3) run `npm test`
 
 ## Emoji Legend
-| Property      | Emoji
+| Free | Paid
+| ---- | ----
+| 🆓 | 💲 
+
+| Medium      | Emoji
 | ------------- | -----
 | Assorted link | 🌐
 | Book/Documents | 📘
 | Course/Tutorial | 🎓
-| Free | 🆓
 | Newsletter/subscription stuff | 📫
-| Paid  | 💲 
 | Podcast/audio | 🎙
 | Video | 🎥
 | Video game/Interactive experience | 🎮
