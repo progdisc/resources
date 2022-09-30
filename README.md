@@ -46,7 +46,7 @@
 * 🆓🎓 [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.
 * 💲📘 [The C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) &mdash; The complete guide to ANSI standard C language programming.
 * 🆓📘 [Tutorials point](https://www.tutorialspoint.com/cprogramming/) &mdash; Reference for C and its features. May not be a bit overwhelming for a *complete* beginner to programming but good for its use.
-* 🆓📘 [Introduction to C Programming](http://www.tti.unipa.it/~ricrizzo/KS/Data/RMiles/contents.html) &mdash; Also available [here](http://student.itee.uq.edu.au/courses/csse2310/CProgrammingNotes.pdf) as a PDF.
+* 🆓📘 [Introduction to C Programming](http://student.itee.uq.edu.au/courses/csse2310/CProgrammingNotes.pdf)
 * 🆓📘 [Stanford Computer Science Education Library](http://cslibrary.stanford.edu/) &mdash; Resources on C, UNIX, and other things implemented in C.
 * 🆓📘 [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Knowing how to use a debugger like `gdb` is essential.
 * 🆓📘 [C Debugging cheat sheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out.
@@ -235,7 +235,7 @@ Search words: Ruby on Rails
 * 🆓📘 [Language Transition: Ruby From Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 * 🆓🎓 [Exercise Focused: Codecademy Ruby](https://www.codecademy.com/learn/ruby)
 * 🆓📘 [Ruby on Rails 5: Ruby on Rails Tutorial](https://www.railstutorial.org/book/)
-* 🆓🎓 [Ruby on Rails: Learn Ruby on Rails from Scratch](https://www.udemy.com/learn-ruby-on-rails-from-scratch)
+* 💲🎓 [Ruby on Rails: Learn Ruby on Rails from Scratch](https://www.udemy.com/course/learn-ruby-on-rails-from-scratch/)
 * 💲🎓 [TeamTreehouse: Learn Ruby](https://teamtreehouse.com/tracks/learn-ruby)
 
 ### Rust
@@ -246,7 +246,7 @@ Search words: Ruby on Rails
 * 🆓📘 [Rust By Example](http://rustbyexample.com/) &mdash; A nice tutorial for people who already know how to program.
 * 🆓📘 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) &mdash; Everything you need to know about macros.
 * 🆓📘 [Rust Documentation](https://doc.rust-lang.org/) &mdash; List of useful Rust documentations, such as: The Rust Language Reference & The standard library API.
-* 🆓📘 [The Rustonomicon](https://doc.rust-lang.org/nomicon/README.html#the-rustonomicon) &mdash; The Dark Arts of Advanced and Unsafe Rust Programming.
+* 🆓📘 [The Rustonomicon](https://doc.rust-lang.org/nomicon/) &mdash; The Dark Arts of Advanced and Unsafe Rust Programming.
 * 🆓📘 [Rustdoc Guide](https://doc.rust-lang.org/rustdoc/) &mdash; A short guide on rustdoc and how to use it.
 * 🆓🌐 [Awesome Rust](https://github.com/kud1ing/awesome-rust) &mdash; A huge list of the best crates and tools you could possibly think of!
 * 🆓🌐 [Rust Books](https://github.com/sger/RustBooks) &mdash; A collection of books related to Rust.
@@ -297,18 +297,17 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 * 🆓🎓 [Columbia University's Machine Learning course on edX](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0) &mdash; Excellent resource for those wanting a career in ML/Data Science. Extremely important and practical concepts covered.
 * 🆓🎓 [Andrew Ng's Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning) &mdash; Very popular resource for those less confident with mathematics. Good for hackers, hobbyists and students.
 * 🆓🎓 [Foundations of Machine Learning by Bloomberg](https://bloomberg.github.io/foml/#home)
-* 🆓📘 [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) &mdash; Mathematically rigorous introduction to Machine Learning theory. Recommended for those with strong mathematics backgrounds.
+* 🆓📘 [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) &mdash; Mathematically rigorous introduction to Machine Learning theory. Recommended for those with strong mathematics backgrounds.
 * 🆓📘 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) &mdash; Introduction to Machine Learning for people from non-technical backgrounds and backgrounds in non-quantitative subjects.
 * 🆓📘 [Deep Learning Book](http://www.deeplearningbook.org/) &mdash; Ian Goodfellow's iconic Deep Learning book.
-* 🆓📘 [3blue1brown's Neural Networks](https://www.3blue1brown.com/videos/2017/10/9/neural-network) &mdash; Excellent series that visually and intuitively explains the concept behind Neural Networks through excellent visuals and animations.
+* 🆓📘 [3blue1brown's Neural Networks](https://www.3blue1brown.com/topics/neural-networks) &mdash; Excellent series that visually and intuitively explains the concept behind Neural Networks through visuals and animations.
 * 🆓🎥 [Stanford's CS231n - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) &mdash; Stanford's Deep Computer Vision course that goes over the advent of CNNs in computer vision, their history and their use in state of the art methods in deep vision. Gets you almost up-to-date on Computer Vision reserach literature.
 * 🆓🎥 [Stanford's CS224n - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) &mdash; Stanford's NLP course going over modern deep learning based methods and architectures.
 
 ### Networking
 
 * 🆓🎓 [CCNA/CCENT 200-120 Course](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC)
-* 💲🎓 [Chris Bryant on Udemy](https://www.udemy.com/user/chrisbryant/)
-  * Frequently on sale for ~$10 USD each
+* 💲🎓 [Chris Bryant on Udemy](https://www.udemy.com/user/chrisbryant/) &mdash; Networking classes from a veteran teacher. Frequently on sale for ~$10 USD each. Some are free.
 * 💲🎓 [Cisco Certification Track and Syllabus](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
 
 ### Mathematics
@@ -325,7 +324,7 @@ Warning: Some of these resources are heavy in [Mathematics](#mathematics)
 ### Open Source
 * 🆓🌐 [Opensource.com](https://opensource.com/resources/what-open-source) &mdash; What exactly is 'Open Source'? Get a gentle overview.
 * 🆓🌐 [Opensource.guide](https://opensource.guide) &mdash; Answers common questions about open source software topics, like its legality and how to get paid.
-* 🆓🌐 ["Finding open source projects to contribute to" from GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/) &mdash; Ready to find an open source project to contribute to?
+* 🆓🌐 ["Finding open source projects to contribute to" from GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) &mdash; Ready to find an open source project to contribute to?
 
 ### Podcasts
 
