@@ -285,7 +285,7 @@ Search words: UI, UX, design
 
 ### Interviews
 
-Search words: ML, Data Science
+Search words: Whiteboard interviews
 
 Always remember that whiteboard interviews are not representative of programming jobs. They are a hazing ritual. Your worth is not determined by their outcome.
 
