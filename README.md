@@ -44,13 +44,13 @@
 * 💲📘 [*C Programming: A Modern Approach*](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504) &mdash; K.N. King's explanation of C89 and C99 in context.
 * 💲📘 [*Programming in C*](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410) &mdash; An introductory book for programming in C
 * 🆓🎓 [Harvard's CS50 MOOC](https://cs50.harvard.edu) &mdash; Introductory course by Harvard on programming using C with no assumed background.
-* 💲📘 [The C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) &mdash; The complete guide to ANSI standard C language programming.
-* 🆓📘 [Tutorials point](https://www.tutorialspoint.com/cprogramming/) &mdash; Reference for C and its features. May not be a bit overwhelming for a *complete* beginner to programming but good for its use.
+* 💲📘 [*The C Programming Language, 2nd Edition*](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) &mdash; The complete guide to ANSI standard C language programming.
+* 🆓📘 [Tutorials Point's *Learn C Programming*](https://www.tutorialspoint.com/cprogramming/) &mdash; Reference for C and its features.
 * 🆓📘 [Introduction to C Programming](http://student.itee.uq.edu.au/courses/csse2310/CProgrammingNotes.pdf)
 * 🆓📘 [Stanford Computer Science Education Library](http://cslibrary.stanford.edu/) &mdash; Resources on C, UNIX, and other things implemented in C.
+* 🆓📘 [Beej's Guide To C Programming](https://beej.us/guide/bgc/) &mdash; Wonderful and typically entertaining C guide from Beej.
 * 🆓📘 [Debugging tutorial with `gdb`](http://student.itee.uq.edu.au/courses/csse2310/debugging-with-gdb.html) &mdash; Knowing how to use a debugger like `gdb` is essential.
 * 🆓📘 [C Debugging cheat sheet](http://student.itee.uq.edu.au/courses/csse2310/debugsheet.pdf) &mdash; Good for those times when you want to pull your hair out.
-* 🆓📘 [Beej's Guide To C Programming](https://beej.us/guide/bgc/) &mdash; Wonderful and typically entertaining C guide from Beej.
 
 
 #### Networking
