@@ -38,9 +38,10 @@ This project includes a setup for spellchecking with npm packages. To use it,
 3) run `npm test`
 
 ## Emoji Legend
-| Free | Paid
-| ---- | ----
-| 🆓 | 💲 
+| Price | Emoji
+| ----- | -----
+| Free | 🆓 
+| Paid | 💲 
 
 | Medium      | Emoji
 | ------------- | -----
