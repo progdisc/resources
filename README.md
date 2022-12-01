@@ -117,6 +117,7 @@ Search words: JS, ES5, ES6, ES2017
 * 🆓📘 [Eloquent JavaScript](http://eloquentjavascript.net/) &mdash; Free to Read Online: A Modern Introduction to Programming.
 * 🆓📘 [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &mdash; A community wiki with a JavaScript reference section, including compatibility charts.
 * 🆓📘 [JS The Right Way](http://jstherightway.org/) &mdash; An overview of JS with a list of additional resources.
+* 🆓🎓 [theodinproject full-stack js](https://www.theodinproject.com/paths/full-stack-javascript) &mdash; A course on full-stack javascript and web development.
 * 🆓🎓 [javascript.info](http://javascript.info/) &mdash; A tutorial on the new features in Javascript.
 * 🆓📘 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) &mdash; Free JS book series written by Kyle Simpson.
 
@@ -233,6 +234,7 @@ Search words: Ruby on Rails
 * 🆓📘 [Learn to Program with Ruby](https://pine.fm/LearnToProgram/)
 * 🆓📘 [Language Transition: Ruby From Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 * 🆓🎓 [Exercise Focused: Codecademy Ruby](https://www.codecademy.com/learn/ruby)
+* 🆓🎓 [theodinproject full-stack ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) &mdash; A course on full-stack ruby and web development.
 * 🆓📘 [Ruby on Rails 5: Ruby on Rails Tutorial](https://www.railstutorial.org/book/)
 * 💲🎓 [Ruby on Rails: Learn Ruby on Rails from Scratch](https://www.udemy.com/course/learn-ruby-on-rails-from-scratch/)
 
