@@ -36,7 +36,6 @@
 * 🆓📘[Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/index.html)
 * 🆓📘[Bash Reference Manual](https://www.gnu.org/software/bash/manual/)
 * 🆓🌐[Greg's BashGuide Wiki](https://mywiki.wooledge.org/BashGuide) &mdash; Teaches good practices with simple scripts. Targets beginners with no advance knowledge.
-* 🆓🌐[Bash Hackers Wiki](http://wiki.bash-hackers.org/) &mdash; Human-readable documentation for GNU Bash.
 
 
 ### C
